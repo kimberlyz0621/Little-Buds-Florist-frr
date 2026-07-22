@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://cci8vkn7tgd4c"]
+
+[ext_resource type="Script" uid="uid://xi6kae5utmrf" path="res://Kimberly/scripts/spider_lily.gd" id="1_kpmfs"]
+[ext_resource type="PackedScene" uid="uid://7rfkicqyb0v4" path="res://Kimberly/assets/cc0-moutain-azalea/source/QS1694-W04-1-1.gltf" id="2_kpmfs"]
+
+[node name="mountainAzalea" type="StaticBody3D" unique_id=1443196729]
+transform = Transform3D(10, 0, 0, 0, 10, 0, 0, 0, 10, 0, 0, 0)
+script = ExtResource("1_kpmfs")
+offset = Vector3(0.1, 0, 0.1)
+
+[node name="QS1694-W04-1-12" parent="." unique_id=1817466660 instance=ExtResource("2_kpmfs")]

@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://dup2dm1k3qq6s"]
+
+[ext_resource type="Script" uid="uid://xi6kae5utmrf" path="res://Kimberly/scripts/spider_lily.gd" id="1_ssqpf"]
+[ext_resource type="PackedScene" uid="uid://ofwf4g0617hf" path="res://Kimberly/assets/cc0-tawny-daylily-h-fulva-var-kwanso/source/HNS064-W03-combine_SCALED.gltf" id="2_ssqpf"]
+
+[node name="tawny" type="StaticBody3D" unique_id=1443196729]
+transform = Transform3D(10, 0, 0, 0, 10, 0, 0, 0, 10, 0, 0, 0)
+script = ExtResource("1_ssqpf")
+offset = Vector3(0.1, 0, 0.1)
+
+[node name="HNS064-W03-combine_SCALED" parent="." unique_id=1178908367 instance=ExtResource("2_ssqpf")]

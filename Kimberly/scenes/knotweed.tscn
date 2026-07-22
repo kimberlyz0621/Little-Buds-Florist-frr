@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://cj7j86jikkmy0"]
+
+[ext_resource type="Script" uid="uid://xi6kae5utmrf" path="res://Kimberly/scripts/spider_lily.gd" id="1_28ay5"]
+[ext_resource type="PackedScene" uid="uid://b1fwm81cbatin" path="res://Kimberly/assets/cc0-thunberg-knotweed-p-thunbergii/source/QS1594-W24-1-1.gltf" id="2_28ay5"]
+
+[node name="knotweed" type="StaticBody3D" unique_id=1443196729]
+transform = Transform3D(10, 0, 0, 0, 10, 0, 0, 0, 10, 0, 0, 0)
+script = ExtResource("1_28ay5")
+offset = Vector3(0.1, 0, 0.1)
+
+[node name="QS1594-W24-1-12" parent="." unique_id=290189429 instance=ExtResource("2_28ay5")]

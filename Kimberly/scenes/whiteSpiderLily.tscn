@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://wluc5h6vl6ge"]
+
+[ext_resource type="Script" uid="uid://xi6kae5utmrf" path="res://Kimberly/scripts/spider_lily.gd" id="1_ks8xr"]
+[ext_resource type="PackedScene" uid="uid://cp4ujm3vd2p23" path="res://Kimberly/assets/cc0-white-spider-lily/source/QS1567-W04_combine.gltf" id="2_ks8xr"]
+
+[node name="whiteSpiderLily" type="StaticBody3D" unique_id=1443196729]
+transform = Transform3D(10, 0, 0, 0, 10, 0, 0, 0, 10, 0, 0, 0)
+script = ExtResource("1_ks8xr")
+offset = Vector3(0.1, 0, 0.1)
+
+[node name="QS1567-W04_combine" parent="." unique_id=1931360892 instance=ExtResource("2_ks8xr")]

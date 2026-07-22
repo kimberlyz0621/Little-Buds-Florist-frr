@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://ba3pow6yng0sw"]
+
+[ext_resource type="Script" uid="uid://xi6kae5utmrf" path="res://Kimberly/scripts/spider_lily.gd" id="1_fsuh1"]
+[ext_resource type="PackedScene" uid="uid://bpo1ghjbfdad3" path="res://Kimberly/assets/cc0-galanthus-galanthus-nivalis/source/QS1661-W08-1-1_SCALED.gltf" id="2_fsuh1"]
+
+[node name="galanthusNivalis" type="StaticBody3D" unique_id=1443196729]
+transform = Transform3D(10, 0, 0, 0, 10, 0, 0, 0, 10, 0, 0, 0)
+script = ExtResource("1_fsuh1")
+offset = Vector3(0.1, 0, 0.1)
+
+[node name="QS1661-W08-1-1_SCALED" parent="." unique_id=1672739801 instance=ExtResource("2_fsuh1")]

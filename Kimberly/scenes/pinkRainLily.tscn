@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://ic6x6ciq8riu"]
+
+[ext_resource type="Script" uid="uid://xi6kae5utmrf" path="res://Kimberly/scripts/spider_lily.gd" id="1_p3o5b"]
+[ext_resource type="PackedScene" uid="uid://xgq61q28e7wm" path="res://Kimberly/assets/cc0-pink-rain-lily-z-carinata/source/QS1599-W05_combine.gltf" id="2_p3o5b"]
+
+[node name="pinkRainLily" type="StaticBody3D" unique_id=1443196729]
+transform = Transform3D(10, 0, 0, 0, 10, 0, 0, 0, 10, 0, 0, 0)
+script = ExtResource("1_p3o5b")
+offset = Vector3(0.1, 0, 0.1)
+
+[node name="QS1599-W05_combine" parent="." unique_id=911348098 instance=ExtResource("2_p3o5b")]
