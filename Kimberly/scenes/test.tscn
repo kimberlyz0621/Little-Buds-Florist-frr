@@ -3,6 +3,10 @@
 [ext_resource type="Script" uid="uid://c75ht1fgu0q0" path="res://Kimberly/scripts/test.gd" id="1_bl13t"]
 [ext_resource type="PackedScene" uid="uid://drgkl23hhx2ol" path="res://Kimberly/scenes/grid.tscn" id="2_iyx0m"]
 [ext_resource type="PackedScene" uid="uid://clo6cqfxqbwk" path="res://Kimberly/scenes/button.tscn" id="3_olpby"]
+[ext_resource type="Texture2D" uid="uid://cn05acnpy12fn" path="res://Kimberly/assets/cc0-golden-spider-lily-l-traubii/golden spider lily.png" id="4_olpby"]
+[ext_resource type="PackedScene" uid="uid://cynjdw2pvqkdj" path="res://Kimberly/scenes/spider_lily.tscn" id="5_urpjx"]
+[ext_resource type="Texture2D" uid="uid://bihxtyrfqdo1" path="res://Kimberly/assets/cc0-crested-latesummer-mint/crested latesummer mint.png" id="6_f6br7"]
+[ext_resource type="PackedScene" uid="uid://bsxngfu374o5w" path="res://Kimberly/scenes/crestedLateSummerMint.tscn" id="7_0uji4"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_6uqi0"]
 sky_horizon_color = Color(0.66224277, 0.6717428, 0.6867428, 1)
@@ -20,9 +24,6 @@ sky = SubResource("Sky_ppyta")
 [sub_resource type="PlaneMesh" id="PlaneMesh_vjnfa"]
 material = SubResource("StandardMaterial3D_qay0w")
 size = Vector2(10, 10)
-
-[sub_resource type="Resource" id="Resource_uv0ac"]
-metadata/__load_path__ = "res://Kimberly/assets/cc0-golden-spider-lily-l-traubii/Spider Lily.png"
 
 [node name="test" type="Node3D" unique_id=1999372655]
 script = ExtResource("1_bl13t")
@@ -43,10 +44,10 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.75, 0.01, -4.75)
 gridWidth = 40
 gridHeight = 40
 cellSize = Vector2(0.25, 0.25)
-defaultcolor = Color(0.7882353, 0, 0.7058824, 1)
+defaultcolor = Color(0.41337934, 0.23322326, 0.10832352, 1)
 
 [node name="Camera3D" type="Camera3D" parent="." unique_id=2000555606]
-transform = Transform3D(1, 0, 0, 0, 0.8929343, 0.45018703, 0, -0.45018703, 0.8929343, 0, 6.3216877, 15.8647785)
+transform = Transform3D(1, 0, 0, 0, 0.8259761, 0.5637052, 0, -0.5637052, 0.8259761, 0, 8.233305, 14.354574)
 fov = 25.0
 
 [node name="Control" type="Control" parent="." unique_id=594616125]
@@ -55,15 +56,22 @@ anchors_preset = 0
 offset_right = 40.0
 offset_bottom = 40.0
 
-[node name="button" parent="Control" unique_id=503856815 instance=ExtResource("3_olpby")]
+[node name="button" parent="Control" unique_id=503856815 node_paths=PackedStringArray("main") instance=ExtResource("3_olpby")]
 layout_mode = 1
-anchors_preset = 0
-anchor_right = 0.0
-anchor_bottom = 0.0
-offset_left = 0.0
-offset_top = 0.0
 offset_right = 8.0
 offset_bottom = 8.0
-grow_horizontal = 1
-grow_vertical = 1
-buttonIcon = SubResource("Resource_uv0ac")
+main = NodePath("../..")
+buttonIcon = ExtResource("4_olpby")
+draggable = ExtResource("5_urpjx")
+
+[node name="button2" parent="Control" unique_id=1018036160 node_paths=PackedStringArray("main") instance=ExtResource("3_olpby")]
+layout_mode = 1
+anchors_preset = 9
+anchor_bottom = 1.0
+offset_top = 99.0
+offset_right = 8.0
+offset_bottom = 159.0
+grow_vertical = 2
+main = NodePath("../..")
+buttonIcon = ExtResource("6_f6br7")
+draggable = ExtResource("7_0uji4")

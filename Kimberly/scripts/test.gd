@@ -1,22 +1,33 @@
 extends Node3D
-
+class_name Manager
 @onready var grid: Node3D = $grid
 const CRESTED_LATE_SUMMER_MINT = preload("uid://bsxngfu374o5w")
 const SPIDER_LILY = preload("uid://cynjdw2pvqkdj")
 
 var object
-var isValid = true
+#var isValid = false
 var objectCells
 
 func _input(event: InputEvent) -> void:
-	if Input.is_action_just_pressed("left_mouse_click") and not object:
-		var buildings = [CRESTED_LATE_SUMMER_MINT, SPIDER_LILY]
-		#chooses building
-		var newPlacement = buildings.pick_random().instantiate()
-		add_child(newPlacement)
-		object = newPlacement
-	elif Input.is_action_just_pressed("left_mouse_click") and isValid:
+	#if Input.is_action_just_pressed("left_mouse_click") and not object:
+		#var buildings = [CRESTED_LATE_SUMMER_MINT, SPIDER_LILY]
+		##chooses building
+		#var newPlacement = buildings.pick_random().instantiate()
+		#add_child(newPlacement)
+		#object = newPlacement
+	if not object:
+		return
+		
+		
+	if Input.is_action_just_pressed("left_mouse_click"):
 		_place_placement(objectCells)
+		object = null
+
+func set_flower(flower):
+	var newPlacement = flower.instantiate()
+	add_child(newPlacement)
+	object = newPlacement
+
 func _process(delta: float) -> void:
 	if not object: return
 	
@@ -26,7 +37,8 @@ func _process(delta: float) -> void:
 		
 		_reset_highlight()
 		objectCells = _get_object_cells()
-		isValid = _check_and_highlight_cells(objectCells)
+		#isValid = _check_and_highlight_cells(objectCells)
+		#isValid = false
 
 
 func _get_grid_position():
@@ -63,26 +75,26 @@ func _get_object_cells():
 			
 	return cells
 	
-func _check_and_highlight_cells(objectCells: Array):
-	var isValid = true
-	
-	var objectCellCoount = (object.get_rect().size.x / grid.cellSize.x) * (object.get_rect().size.y / grid.cellSize.y)
-	
-	if objectCellCoount != objectCells.size():
-		isValid = true
-		
-	for cell in objectCells:
-		if cell.full:
-			isValid = true
-			cell.change_color(Color.GREEN)
-		else:
-			cell.change_color(Color.GREEN)
-			
-	return isValid
+#func _check_and_highlight_cells(objectCells: Array):
+	#var isValid = true
+	#
+	#var objectCellCoount = (object.get_rect().size.x / grid.cellSize.x) * (object.get_rect().size.y / grid.cellSize.y)
+	#
+	#if objectCellCoount != objectCells.size():
+		#isValid = true
+		#
+	#for cell in objectCells:
+		#if cell.full:
+			#isValid = true
+			#cell.change_color(Color.GREEN)
+		#else:
+			#cell.change_color(Color.GREEN)
+			#
+	#return isValid
 
 func _place_placement(objectCells):
 	object = null
-	isValid = null
+	#isValid = null
 	
 	print(objectCells)
 	for cell in objectCells:

@@ -1,10 +1,10 @@
 [gd_scene format=3 uid="uid://bsxngfu374o5w"]
 
-[ext_resource type="Script" uid="uid://xi6kae5utmrf" path="res://scripts/spider_lily.gd" id="1_ll08f"]
-[ext_resource type="PackedScene" uid="uid://deyyeq5c37kyv" path="res://assets/cc0-crested-latesummer-mint/source/QS1594-W23-1-2.gltf" id="2_2cubx"]
+[ext_resource type="Script" uid="uid://xi6kae5utmrf" path="res://Kimberly/scripts/spider_lily.gd" id="1_ll08f"]
+[ext_resource type="PackedScene" uid="uid://deyyeq5c37kyv" path="res://Kimberly/assets/cc0-crested-latesummer-mint/source/QS1594-W23-1-2.gltf" id="2_2cubx"]
 
 [node name="crestedLateSummerMint" type="StaticBody3D" unique_id=1443196729]
-transform = Transform3D(5, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0)
+transform = Transform3D(10, 0, 0, 0, 10, 0, 0, 0, 10, 0, 0, 0)
 script = ExtResource("1_ll08f")
 size = Vector2(3, 3)
 
