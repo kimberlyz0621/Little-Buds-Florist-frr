@@ -7,6 +7,18 @@
 [ext_resource type="PackedScene" uid="uid://cynjdw2pvqkdj" path="res://Kimberly/scenes/spider_lily.tscn" id="5_urpjx"]
 [ext_resource type="Texture2D" uid="uid://bihxtyrfqdo1" path="res://Kimberly/assets/cc0-crested-latesummer-mint/crested latesummer mint.png" id="6_f6br7"]
 [ext_resource type="PackedScene" uid="uid://bsxngfu374o5w" path="res://Kimberly/scenes/crestedLateSummerMint.tscn" id="7_0uji4"]
+[ext_resource type="Texture2D" uid="uid://dnvyqu0bk3qai" path="res://Kimberly/assets/cc0-galanthus-galanthus-nivalis/galanthus nivalis.png" id="8_mxdl4"]
+[ext_resource type="PackedScene" uid="uid://ba3pow6yng0sw" path="res://Kimberly/scenes/galanthusNivalis.tscn" id="9_bdywq"]
+[ext_resource type="Texture2D" uid="uid://cryte0fa5okq2" path="res://Kimberly/assets/cc0-moutain-azalea/mountain azalea.png" id="10_uxvbu"]
+[ext_resource type="PackedScene" uid="uid://cci8vkn7tgd4c" path="res://Kimberly/scenes/mountainAzalea.tscn" id="11_c50xj"]
+[ext_resource type="Texture2D" uid="uid://5kushajokj8r" path="res://Kimberly/assets/cc0-pink-rain-lily-z-carinata/pink rain lily.png" id="12_16lyn"]
+[ext_resource type="PackedScene" uid="uid://ic6x6ciq8riu" path="res://Kimberly/scenes/pinkRainLily.tscn" id="13_8ih6l"]
+[ext_resource type="Texture2D" uid="uid://c1t7ba82k7ixy" path="res://Kimberly/assets/cc0-tawny-daylily-h-fulva-var-kwanso/tawny.png" id="14_uabmi"]
+[ext_resource type="PackedScene" uid="uid://dup2dm1k3qq6s" path="res://Kimberly/scenes/tawny.tscn" id="15_u7lqe"]
+[ext_resource type="Texture2D" uid="uid://i228ogq0px1f" path="res://Kimberly/assets/cc0-thunberg-knotweed-p-thunbergii/thunberg.png" id="16_ancd5"]
+[ext_resource type="PackedScene" uid="uid://cj7j86jikkmy0" path="res://Kimberly/scenes/knotweed.tscn" id="17_1fn1n"]
+[ext_resource type="Texture2D" uid="uid://dq8gq2rqdiomv" path="res://Kimberly/assets/cc0-white-spider-lily/white spider lily.png" id="18_4m7tu"]
+[ext_resource type="PackedScene" uid="uid://wluc5h6vl6ge" path="res://Kimberly/scenes/whiteSpiderLily.tscn" id="19_78hrs"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_6uqi0"]
 sky_horizon_color = Color(0.66224277, 0.6717428, 0.6867428, 1)
@@ -56,22 +68,85 @@ anchors_preset = 0
 offset_right = 40.0
 offset_bottom = 40.0
 
-[node name="button" parent="Control" unique_id=503856815 node_paths=PackedStringArray("main") instance=ExtResource("3_olpby")]
+[node name="golden spider lily" parent="Control" unique_id=503856815 node_paths=PackedStringArray("main") instance=ExtResource("3_olpby")]
 layout_mode = 1
-offset_right = 8.0
-offset_bottom = 8.0
+offset_left = 1.0
+offset_right = 101.0
 main = NodePath("../..")
 buttonIcon = ExtResource("4_olpby")
 draggable = ExtResource("5_urpjx")
 
-[node name="button2" parent="Control" unique_id=1018036160 node_paths=PackedStringArray("main") instance=ExtResource("3_olpby")]
+[node name="crested latesummer mint" parent="Control" unique_id=1018036160 node_paths=PackedStringArray("main") instance=ExtResource("3_olpby")]
 layout_mode = 1
 anchors_preset = 9
 anchor_bottom = 1.0
-offset_top = 99.0
-offset_right = 8.0
-offset_bottom = 159.0
+offset_left = 1.0
+offset_top = 102.0
+offset_right = 101.0
+offset_bottom = 162.0
 grow_vertical = 2
 main = NodePath("../..")
 buttonIcon = ExtResource("6_f6br7")
 draggable = ExtResource("7_0uji4")
+
+[node name="galanthus nivalis" parent="Control" unique_id=1472063761 node_paths=PackedStringArray("main") instance=ExtResource("3_olpby")]
+layout_mode = 0
+offset_left = 1.0
+offset_top = 202.0
+offset_right = 101.0
+offset_bottom = 302.0
+main = NodePath("../..")
+buttonIcon = ExtResource("8_mxdl4")
+draggable = ExtResource("9_bdywq")
+
+[node name="mountain azalea" parent="Control" unique_id=741416462 node_paths=PackedStringArray("main") instance=ExtResource("3_olpby")]
+layout_mode = 0
+offset_left = 1.0
+offset_top = 302.0
+offset_right = 101.0
+offset_bottom = 402.0
+main = NodePath("../..")
+buttonIcon = ExtResource("10_uxvbu")
+draggable = ExtResource("11_c50xj")
+
+[node name="pink rain lily" parent="Control" unique_id=1142458976 node_paths=PackedStringArray("main") instance=ExtResource("3_olpby")]
+layout_mode = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = 1012.0
+offset_right = 1112.0
+grow_horizontal = 0
+main = NodePath("../..")
+buttonIcon = ExtResource("12_16lyn")
+draggable = ExtResource("13_8ih6l")
+
+[node name="tawny" parent="Control" unique_id=1840807613 node_paths=PackedStringArray("main") instance=ExtResource("3_olpby")]
+layout_mode = 0
+offset_left = 1052.0
+offset_top = 102.0
+offset_right = 1152.0
+offset_bottom = 202.0
+main = NodePath("../..")
+buttonIcon = ExtResource("14_uabmi")
+draggable = ExtResource("15_u7lqe")
+
+[node name="knotweed" parent="Control" unique_id=1332443825 node_paths=PackedStringArray("main") instance=ExtResource("3_olpby")]
+layout_mode = 0
+offset_left = 1052.0
+offset_top = 202.0
+offset_right = 1152.0
+offset_bottom = 302.0
+main = NodePath("../..")
+buttonIcon = ExtResource("16_ancd5")
+draggable = ExtResource("17_1fn1n")
+
+[node name="white spider lily" parent="Control" unique_id=1515318811 node_paths=PackedStringArray("main") instance=ExtResource("3_olpby")]
+layout_mode = 0
+offset_left = 1052.0
+offset_top = 302.0
+offset_right = 1152.0
+offset_bottom = 402.0
+main = NodePath("../..")
+buttonIcon = ExtResource("18_4m7tu")
+draggable = ExtResource("19_78hrs")
