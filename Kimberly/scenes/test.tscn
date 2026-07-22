@@ -1,0 +1,69 @@
+[gd_scene format=3 uid="uid://kdjqswcuto4k"]
+
+[ext_resource type="Script" uid="uid://c75ht1fgu0q0" path="res://Kimberly/scripts/test.gd" id="1_bl13t"]
+[ext_resource type="PackedScene" uid="uid://drgkl23hhx2ol" path="res://Kimberly/scenes/grid.tscn" id="2_iyx0m"]
+[ext_resource type="PackedScene" uid="uid://clo6cqfxqbwk" path="res://Kimberly/scenes/button.tscn" id="3_olpby"]
+
+[sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_6uqi0"]
+sky_horizon_color = Color(0.66224277, 0.6717428, 0.6867428, 1)
+ground_horizon_color = Color(0.66224277, 0.6717428, 0.6867428, 1)
+
+[sub_resource type="Sky" id="Sky_ppyta"]
+sky_material = SubResource("ProceduralSkyMaterial_6uqi0")
+
+[sub_resource type="Environment" id="Environment_ykrsh"]
+background_mode = 2
+sky = SubResource("Sky_ppyta")
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_qay0w"]
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_vjnfa"]
+material = SubResource("StandardMaterial3D_qay0w")
+size = Vector2(10, 10)
+
+[sub_resource type="Resource" id="Resource_uv0ac"]
+metadata/__load_path__ = "res://Kimberly/assets/cc0-golden-spider-lily-l-traubii/Spider Lily.png"
+
+[node name="test" type="Node3D" unique_id=1999372655]
+script = ExtResource("1_bl13t")
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=1307718863]
+environment = SubResource("Environment_ykrsh")
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=1597939163]
+transform = Transform3D(-0.8660254, -0.43301278, 0.25, 0, 0.49999997, 0.86602545, -0.50000006, 0.75, -0.43301266, 0, 0, 0)
+shadow_enabled = true
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=1734848197]
+visible = false
+mesh = SubResource("PlaneMesh_vjnfa")
+
+[node name="grid" parent="." unique_id=1061537182 instance=ExtResource("2_iyx0m")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.75, 0.01, -4.75)
+gridWidth = 40
+gridHeight = 40
+cellSize = Vector2(0.25, 0.25)
+defaultcolor = Color(0.7882353, 0, 0.7058824, 1)
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=2000555606]
+transform = Transform3D(1, 0, 0, 0, 0.8929343, 0.45018703, 0, -0.45018703, 0.8929343, 0, 6.3216877, 15.8647785)
+fov = 25.0
+
+[node name="Control" type="Control" parent="." unique_id=594616125]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="button" parent="Control" unique_id=503856815 instance=ExtResource("3_olpby")]
+layout_mode = 1
+anchors_preset = 0
+anchor_right = 0.0
+anchor_bottom = 0.0
+offset_left = 0.0
+offset_top = 0.0
+offset_right = 8.0
+offset_bottom = 8.0
+grow_horizontal = 1
+grow_vertical = 1
+buttonIcon = SubResource("Resource_uv0ac")

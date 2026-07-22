@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://drgkl23hhx2ol"]
+
+[ext_resource type="Script" uid="uid://b8as7xxrkrk17" path="res://Kimberly/scripts/grid.gd" id="1_ebq2e"]
+
+[node name="grid" type="Node3D" unique_id=1061537182]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0018328726, 0.0028832555, 0)
+script = ExtResource("1_ebq2e")
+gridWidth = 10
+gridHeight = 10

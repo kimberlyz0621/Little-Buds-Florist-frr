@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://clo6cqfxqbwk"]
+
+[ext_resource type="Script" uid="uid://b3b3yr8fwe0qd" path="res://Kimberly/scripts/button.gd" id="1_drdjf"]
+[ext_resource type="Texture2D" uid="uid://cn05acnpy12fn" path="res://Kimberly/assets/cc0-golden-spider-lily-l-traubii/golden spider lily.png" id="2_jiukp"]
+
+[node name="button" type="Button" unique_id=503856815]
+custom_minimum_size = Vector2(100, 100)
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 15.0
+offset_top = -5.0
+offset_right = -482.0
+offset_bottom = -5.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_drdjf")
+buttonIcon = ExtResource("2_jiukp")

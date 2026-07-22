@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://cynjdw2pvqkdj"]
+
+[ext_resource type="Script" uid="uid://xi6kae5utmrf" path="res://scripts/spider_lily.gd" id="1_ynae5"]
+[ext_resource type="PackedScene" uid="uid://m6713rfncwwu" path="res://assets/cc0-golden-spider-lily-l-traubii/source/QS1596-W24_combine.gltf" id="2_8o5d1"]
+
+[node name="spiderLily" type="StaticBody3D" unique_id=1443196729]
+transform = Transform3D(5, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0)
+script = ExtResource("1_ynae5")
+offset = Vector3(0.1, 0, 0.1)
+
+[node name="QS1596-W24_combine" parent="." unique_id=55252049 instance=ExtResource("2_8o5d1")]
