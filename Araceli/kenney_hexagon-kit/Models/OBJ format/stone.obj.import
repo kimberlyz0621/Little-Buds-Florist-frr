@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://culxqq1un2vf4"
+path="res://.godot/imported/stone.obj-57b69631b369e74a7421bddcae94d12d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/stone.obj-57b69631b369e74a7421bddcae94d12d.mesh"]
+
+source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/stone.obj"
+dest_files=["res://.godot/imported/stone.obj-57b69631b369e74a7421bddcae94d12d.mesh", "res://.godot/imported/stone.obj-57b69631b369e74a7421bddcae94d12d.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

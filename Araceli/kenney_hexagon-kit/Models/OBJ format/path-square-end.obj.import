@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b33igxr1wdn6x"
+path="res://.godot/imported/path-square-end.obj-682d97e57081b9c06a31fbd3086514a7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/path-square-end.obj-682d97e57081b9c06a31fbd3086514a7.mesh"]
+
+source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/path-square-end.obj"
+dest_files=["res://.godot/imported/path-square-end.obj-682d97e57081b9c06a31fbd3086514a7.mesh", "res://.godot/imported/path-square-end.obj-682d97e57081b9c06a31fbd3086514a7.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

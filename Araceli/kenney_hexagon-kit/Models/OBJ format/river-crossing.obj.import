@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://25hcnj0ph7sv"
+path="res://.godot/imported/river-crossing.obj-5dc23205f80a53fca9128dcb8c2c66be.mesh"
+
+[deps]
+
+files=["res://.godot/imported/river-crossing.obj-5dc23205f80a53fca9128dcb8c2c66be.mesh"]
+
+source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/river-crossing.obj"
+dest_files=["res://.godot/imported/river-crossing.obj-5dc23205f80a53fca9128dcb8c2c66be.mesh", "res://.godot/imported/river-crossing.obj-5dc23205f80a53fca9128dcb8c2c66be.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

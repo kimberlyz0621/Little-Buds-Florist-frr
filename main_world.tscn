@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://ch12eiunli85t"]
+
+[ext_resource type="PackedScene" uid="uid://coc15as567tsk" path="res://Araceli/Untitled.blend" id="1_itk02"]
+
+[node name="main world" type="Node3D" unique_id=68613765]
+
+[node name="world" parent="." unique_id=1091742111 instance=ExtResource("1_itk02")]
+transform = Transform3D(1.2732674, 0, 0, 0, 1.3520528, 0, 0, 0, 1.1609993, -0.0004143715, -0.023084879, 0.00406155)

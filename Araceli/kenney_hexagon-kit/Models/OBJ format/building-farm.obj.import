@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c5u5ndvt66brh"
+path="res://.godot/imported/building-farm.obj-7484a49c8db2eb0ea3fdf7c460c3023f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/building-farm.obj-7484a49c8db2eb0ea3fdf7c460c3023f.mesh"]
+
+source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/building-farm.obj"
+dest_files=["res://.godot/imported/building-farm.obj-7484a49c8db2eb0ea3fdf7c460c3023f.mesh", "res://.godot/imported/building-farm.obj-7484a49c8db2eb0ea3fdf7c460c3023f.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
