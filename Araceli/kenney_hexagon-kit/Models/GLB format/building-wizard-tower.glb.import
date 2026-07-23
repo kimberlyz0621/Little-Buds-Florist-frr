@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bfj2k1ms6el5c"
-path="res://.godot/imported/building-wizard-tower.glb-44457b389bbb4ac9d3a42864c7325492.scn"
+path="res://.godot/imported/building-wizard-tower.glb-8b133ccbd5ca21e22129054091c2fe0e.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/GLB format/building-wizard-tower.glb"
-dest_files=["res://.godot/imported/building-wizard-tower.glb-44457b389bbb4ac9d3a42864c7325492.scn"]
+source_file="res://kenney_hexagon-kit/Models/GLB format/building-wizard-tower.glb"
+dest_files=["res://.godot/imported/building-wizard-tower.glb-8b133ccbd5ca21e22129054091c2fe0e.scn"]
 
 [params]
 

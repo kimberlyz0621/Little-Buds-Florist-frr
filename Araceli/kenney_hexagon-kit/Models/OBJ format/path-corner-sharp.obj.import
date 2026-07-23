@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cavq3tmc7adqk"
-path="res://.godot/imported/path-corner-sharp.obj-dbd42f2a6677f4ec8d2a26909c3cb9be.mesh"
+path="res://.godot/imported/path-corner-sharp.obj-632c987627cade23302ef6fded78c75c.mesh"
 
 [deps]
 
-files=["res://.godot/imported/path-corner-sharp.obj-dbd42f2a6677f4ec8d2a26909c3cb9be.mesh"]
+files=["res://.godot/imported/path-corner-sharp.obj-632c987627cade23302ef6fded78c75c.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/path-corner-sharp.obj"
-dest_files=["res://.godot/imported/path-corner-sharp.obj-dbd42f2a6677f4ec8d2a26909c3cb9be.mesh", "res://.godot/imported/path-corner-sharp.obj-dbd42f2a6677f4ec8d2a26909c3cb9be.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/path-corner-sharp.obj"
+dest_files=["res://.godot/imported/path-corner-sharp.obj-632c987627cade23302ef6fded78c75c.mesh", "res://.godot/imported/path-corner-sharp.obj-632c987627cade23302ef6fded78c75c.mesh"]
 
 [params]
 

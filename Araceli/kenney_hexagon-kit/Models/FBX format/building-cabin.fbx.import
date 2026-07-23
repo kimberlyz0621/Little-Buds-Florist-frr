@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://diy3ko30hsnja"
-path="res://.godot/imported/building-cabin.fbx-4a4853204984cf3ab2ec71a63117fbf8.scn"
+path="res://.godot/imported/building-cabin.fbx-c4ec75c5b186bb8847270402590827ff.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/building-cabin.fbx"
-dest_files=["res://.godot/imported/building-cabin.fbx-4a4853204984cf3ab2ec71a63117fbf8.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/building-cabin.fbx"
+dest_files=["res://.godot/imported/building-cabin.fbx-c4ec75c5b186bb8847270402590827ff.scn"]
 
 [params]
 

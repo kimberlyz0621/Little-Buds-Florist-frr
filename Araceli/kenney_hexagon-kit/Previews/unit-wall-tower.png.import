@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0s3fowto5fqg"
-path="res://.godot/imported/unit-wall-tower.png-d4169af7a1e655662899f297256a4911.ctex"
+path="res://.godot/imported/unit-wall-tower.png-01075e41793e8ecabd608826e8cda7fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/unit-wall-tower.png"
-dest_files=["res://.godot/imported/unit-wall-tower.png-d4169af7a1e655662899f297256a4911.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/unit-wall-tower.png"
+dest_files=["res://.godot/imported/unit-wall-tower.png-01075e41793e8ecabd608826e8cda7fc.ctex"]
 
 [params]
 

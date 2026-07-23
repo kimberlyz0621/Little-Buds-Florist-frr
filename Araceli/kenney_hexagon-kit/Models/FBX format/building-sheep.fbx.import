@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ccm3a32fqcrqq"
-path="res://.godot/imported/building-sheep.fbx-ac3e5918c56f574edd000a7129aa469a.scn"
+path="res://.godot/imported/building-sheep.fbx-854bce27e8fbb8759c158760fb0cc741.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/building-sheep.fbx"
-dest_files=["res://.godot/imported/building-sheep.fbx-ac3e5918c56f574edd000a7129aa469a.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/building-sheep.fbx"
+dest_files=["res://.godot/imported/building-sheep.fbx-854bce27e8fbb8759c158760fb0cc741.scn"]
 
 [params]
 

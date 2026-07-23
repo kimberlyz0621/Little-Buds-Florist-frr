@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://jodxmx2mhjiq"
-path="res://.godot/imported/river-intersectionG.obj-5c8bb3181fefa917f700262ce22b8066.mesh"
+path="res://.godot/imported/river-intersectionG.obj-086639ccaf6330c673d3b2ed6f0ed3f5.mesh"
 
 [deps]
 
-files=["res://.godot/imported/river-intersectionG.obj-5c8bb3181fefa917f700262ce22b8066.mesh"]
+files=["res://.godot/imported/river-intersectionG.obj-086639ccaf6330c673d3b2ed6f0ed3f5.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/river-intersectionG.obj"
-dest_files=["res://.godot/imported/river-intersectionG.obj-5c8bb3181fefa917f700262ce22b8066.mesh", "res://.godot/imported/river-intersectionG.obj-5c8bb3181fefa917f700262ce22b8066.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/river-intersectionG.obj"
+dest_files=["res://.godot/imported/river-intersectionG.obj-086639ccaf6330c673d3b2ed6f0ed3f5.mesh", "res://.godot/imported/river-intersectionG.obj-086639ccaf6330c673d3b2ed6f0ed3f5.mesh"]
 
 [params]
 

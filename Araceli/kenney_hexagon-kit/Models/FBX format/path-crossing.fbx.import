@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dm7gc4lu1ah3v"
-path="res://.godot/imported/path-crossing.fbx-e971d8ec9b500034b4a26f35b46eebfa.scn"
+path="res://.godot/imported/path-crossing.fbx-3a754b2a223d7c46db2cf8ae6619cbff.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/path-crossing.fbx"
-dest_files=["res://.godot/imported/path-crossing.fbx-e971d8ec9b500034b4a26f35b46eebfa.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/path-crossing.fbx"
+dest_files=["res://.godot/imported/path-crossing.fbx-3a754b2a223d7c46db2cf8ae6619cbff.scn"]
 
 [params]
 

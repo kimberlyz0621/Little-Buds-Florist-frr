@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dewu20uiv8gxh"
-path="res://.godot/imported/path-corner.png-a876df4aa6935293019eb798a81c531d.ctex"
+path="res://.godot/imported/path-corner.png-9e079762cc4215e3aa04bafc748bf430.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/path-corner.png"
-dest_files=["res://.godot/imported/path-corner.png-a876df4aa6935293019eb798a81c531d.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/path-corner.png"
+dest_files=["res://.godot/imported/path-corner.png-9e079762cc4215e3aa04bafc748bf430.ctex"]
 
 [params]
 

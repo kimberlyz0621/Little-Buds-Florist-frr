@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dmohsoycuikwg"
-path="res://.godot/imported/path-corner.fbx-8db71460ffbd3066ffbc93c813fef4f6.scn"
+path="res://.godot/imported/path-corner.fbx-a0a5229df71f48a760cc217a532f0df9.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/path-corner.fbx"
-dest_files=["res://.godot/imported/path-corner.fbx-8db71460ffbd3066ffbc93c813fef4f6.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/path-corner.fbx"
+dest_files=["res://.godot/imported/path-corner.fbx-a0a5229df71f48a760cc217a532f0df9.scn"]
 
 [params]
 

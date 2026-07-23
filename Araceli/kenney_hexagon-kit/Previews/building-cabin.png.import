@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5emhnt5h1x20"
-path="res://.godot/imported/building-cabin.png-4fab9801aba5650056acf95ce6cdc55b.ctex"
+path="res://.godot/imported/building-cabin.png-127127affd6c34e76e43b863c3c7d498.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/building-cabin.png"
-dest_files=["res://.godot/imported/building-cabin.png-4fab9801aba5650056acf95ce6cdc55b.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/building-cabin.png"
+dest_files=["res://.godot/imported/building-cabin.png-127127affd6c34e76e43b863c3c7d498.ctex"]
 
 [params]
 

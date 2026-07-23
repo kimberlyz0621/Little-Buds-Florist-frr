@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://5qw3ysw8xlq1"
-path="res://.godot/imported/unit-house.obj-71fe2e10e80dc2e2283645637122b20a.mesh"
+path="res://.godot/imported/unit-house.obj-3b75f8a36d7524269e81942f86681673.mesh"
 
 [deps]
 
-files=["res://.godot/imported/unit-house.obj-71fe2e10e80dc2e2283645637122b20a.mesh"]
+files=["res://.godot/imported/unit-house.obj-3b75f8a36d7524269e81942f86681673.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/unit-house.obj"
-dest_files=["res://.godot/imported/unit-house.obj-71fe2e10e80dc2e2283645637122b20a.mesh", "res://.godot/imported/unit-house.obj-71fe2e10e80dc2e2283645637122b20a.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/unit-house.obj"
+dest_files=["res://.godot/imported/unit-house.obj-3b75f8a36d7524269e81942f86681673.mesh", "res://.godot/imported/unit-house.obj-3b75f8a36d7524269e81942f86681673.mesh"]
 
 [params]
 

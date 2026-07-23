@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbgp57qtbmmbh"
-path="res://.godot/imported/building-house.png-28d77a8c1bd4f65af7f8d51bfdf6af01.ctex"
+path="res://.godot/imported/building-house.png-91c883761711ec23a13decfc72e96b16.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/building-house.png"
-dest_files=["res://.godot/imported/building-house.png-28d77a8c1bd4f65af7f8d51bfdf6af01.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/building-house.png"
+dest_files=["res://.godot/imported/building-house.png-91c883761711ec23a13decfc72e96b16.ctex"]
 
 [params]
 

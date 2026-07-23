@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ds6uxbethkygp"
-path="res://.godot/imported/sand.png-ef5cbb48c64b1c0b7cbfcb970b61cb9a.ctex"
+path="res://.godot/imported/sand.png-299ed78e2b162de891f672c0bea937b9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/sand.png"
-dest_files=["res://.godot/imported/sand.png-ef5cbb48c64b1c0b7cbfcb970b61cb9a.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/sand.png"
+dest_files=["res://.godot/imported/sand.png-299ed78e2b162de891f672c0bea937b9.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b82t4kal4gnvu"
-path="res://.godot/imported/sand-rocks.glb-2882c5030ebd7da957ce9d683cde5034.scn"
+path="res://.godot/imported/sand-rocks.glb-0ba50435fb5c23e7e95049f6a85d12b3.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/GLB format/sand-rocks.glb"
-dest_files=["res://.godot/imported/sand-rocks.glb-2882c5030ebd7da957ce9d683cde5034.scn"]
+source_file="res://kenney_hexagon-kit/Models/GLB format/sand-rocks.glb"
+dest_files=["res://.godot/imported/sand-rocks.glb-0ba50435fb5c23e7e95049f6a85d12b3.scn"]
 
 [params]
 

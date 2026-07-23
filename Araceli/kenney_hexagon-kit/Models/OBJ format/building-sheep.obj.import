@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bla54ydk8vq4h"
-path="res://.godot/imported/building-sheep.obj-6d8fe9cd5fd09afd6941c6d2b789eb04.mesh"
+path="res://.godot/imported/building-sheep.obj-dd28f826a3635c340541466bcaba879f.mesh"
 
 [deps]
 
-files=["res://.godot/imported/building-sheep.obj-6d8fe9cd5fd09afd6941c6d2b789eb04.mesh"]
+files=["res://.godot/imported/building-sheep.obj-dd28f826a3635c340541466bcaba879f.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/building-sheep.obj"
-dest_files=["res://.godot/imported/building-sheep.obj-6d8fe9cd5fd09afd6941c6d2b789eb04.mesh", "res://.godot/imported/building-sheep.obj-6d8fe9cd5fd09afd6941c6d2b789eb04.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/building-sheep.obj"
+dest_files=["res://.godot/imported/building-sheep.obj-dd28f826a3635c340541466bcaba879f.mesh", "res://.godot/imported/building-sheep.obj-dd28f826a3635c340541466bcaba879f.mesh"]
 
 [params]
 

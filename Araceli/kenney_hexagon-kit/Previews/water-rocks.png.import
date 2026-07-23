@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://by8qwu17cmlki"
-path="res://.godot/imported/water-rocks.png-5a64d0c56d2433c1fe77479b923d9d5e.ctex"
+path="res://.godot/imported/water-rocks.png-e49b663d027deff4b4b884ca2c6da2d5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/water-rocks.png"
-dest_files=["res://.godot/imported/water-rocks.png-5a64d0c56d2433c1fe77479b923d9d5e.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/water-rocks.png"
+dest_files=["res://.godot/imported/water-rocks.png-e49b663d027deff4b4b884ca2c6da2d5.ctex"]
 
 [params]
 

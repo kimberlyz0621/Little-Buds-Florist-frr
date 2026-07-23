@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://gtdmy20hduty"
-path="res://.godot/imported/sand-rocks.obj-349f8bbacaeddd9651dd58dae653a22f.mesh"
+path="res://.godot/imported/sand-rocks.obj-ea12508995b0840bd22f6ddec1428cc7.mesh"
 
 [deps]
 
-files=["res://.godot/imported/sand-rocks.obj-349f8bbacaeddd9651dd58dae653a22f.mesh"]
+files=["res://.godot/imported/sand-rocks.obj-ea12508995b0840bd22f6ddec1428cc7.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/sand-rocks.obj"
-dest_files=["res://.godot/imported/sand-rocks.obj-349f8bbacaeddd9651dd58dae653a22f.mesh", "res://.godot/imported/sand-rocks.obj-349f8bbacaeddd9651dd58dae653a22f.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/sand-rocks.obj"
+dest_files=["res://.godot/imported/sand-rocks.obj-ea12508995b0840bd22f6ddec1428cc7.mesh", "res://.godot/imported/sand-rocks.obj-ea12508995b0840bd22f6ddec1428cc7.mesh"]
 
 [params]
 

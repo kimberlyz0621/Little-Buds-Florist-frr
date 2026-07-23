@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chnakaoxfnwep"
-path="res://.godot/imported/path-crossing.png-c37d00f70a51e717270718329c6e1ed2.ctex"
+path="res://.godot/imported/path-crossing.png-c2f3864131e466ec49ac4bd0120ebde3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/path-crossing.png"
-dest_files=["res://.godot/imported/path-crossing.png-c37d00f70a51e717270718329c6e1ed2.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/path-crossing.png"
+dest_files=["res://.godot/imported/path-crossing.png-c2f3864131e466ec49ac4bd0120ebde3.ctex"]
 
 [params]
 

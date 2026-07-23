@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bn16ywobuw47f"
-path="res://.godot/imported/water.obj-7edef345bf4f0ba9bb6f4dbd6b7fe813.mesh"
+path="res://.godot/imported/water.obj-e30118684c4a5712ac43905b457e001f.mesh"
 
 [deps]
 
-files=["res://.godot/imported/water.obj-7edef345bf4f0ba9bb6f4dbd6b7fe813.mesh"]
+files=["res://.godot/imported/water.obj-e30118684c4a5712ac43905b457e001f.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/water.obj"
-dest_files=["res://.godot/imported/water.obj-7edef345bf4f0ba9bb6f4dbd6b7fe813.mesh", "res://.godot/imported/water.obj-7edef345bf4f0ba9bb6f4dbd6b7fe813.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/water.obj"
+dest_files=["res://.godot/imported/water.obj-e30118684c4a5712ac43905b457e001f.mesh", "res://.godot/imported/water.obj-e30118684c4a5712ac43905b457e001f.mesh"]
 
 [params]
 

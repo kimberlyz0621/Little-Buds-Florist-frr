@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qmw6cwkxx0pi"
-path="res://.godot/imported/stone-rocks.png-09949234704558a653d8983147565767.ctex"
+path="res://.godot/imported/stone-rocks.png-6a5f72f9b47971cd486985b9f8ea894b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/stone-rocks.png"
-dest_files=["res://.godot/imported/stone-rocks.png-09949234704558a653d8983147565767.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/stone-rocks.png"
+dest_files=["res://.godot/imported/stone-rocks.png-6a5f72f9b47971cd486985b9f8ea894b.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bhcj165u2sm7e"
-path="res://.godot/imported/building-dock.glb-2d6c885f5cba103e07b30fd84471559d.scn"
+path="res://.godot/imported/building-dock.glb-7dace8374e0b9aef297484db548bbc18.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/GLB format/building-dock.glb"
-dest_files=["res://.godot/imported/building-dock.glb-2d6c885f5cba103e07b30fd84471559d.scn"]
+source_file="res://kenney_hexagon-kit/Models/GLB format/building-dock.glb"
+dest_files=["res://.godot/imported/building-dock.glb-7dace8374e0b9aef297484db548bbc18.scn"]
 
 [params]
 

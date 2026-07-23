@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dchp5a1xuju8t"
-path="res://.godot/imported/path-crossing.obj-a277485d9b32e6b7a3c766eb1d52e2c4.mesh"
+path="res://.godot/imported/path-crossing.obj-630d57170d0370b47d79c716bb5d932e.mesh"
 
 [deps]
 
-files=["res://.godot/imported/path-crossing.obj-a277485d9b32e6b7a3c766eb1d52e2c4.mesh"]
+files=["res://.godot/imported/path-crossing.obj-630d57170d0370b47d79c716bb5d932e.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/path-crossing.obj"
-dest_files=["res://.godot/imported/path-crossing.obj-a277485d9b32e6b7a3c766eb1d52e2c4.mesh", "res://.godot/imported/path-crossing.obj-a277485d9b32e6b7a3c766eb1d52e2c4.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/path-crossing.obj"
+dest_files=["res://.godot/imported/path-crossing.obj-630d57170d0370b47d79c716bb5d932e.mesh", "res://.godot/imported/path-crossing.obj-630d57170d0370b47d79c716bb5d932e.mesh"]
 
 [params]
 

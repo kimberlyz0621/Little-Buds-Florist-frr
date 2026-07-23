@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drjethyhxtpug"
-path="res://.godot/imported/Preview (Variation B).png-4faacf5580cd4cf06ac7e20570ce7a29.ctex"
+path="res://.godot/imported/Preview (Variation B).png-ad97efa78927d665b23228727059df04.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Preview (Variation B).png"
-dest_files=["res://.godot/imported/Preview (Variation B).png-4faacf5580cd4cf06ac7e20570ce7a29.ctex"]
+source_file="res://kenney_hexagon-kit/Preview (Variation B).png"
+dest_files=["res://.godot/imported/Preview (Variation B).png-ad97efa78927d665b23228727059df04.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://uey2w1h0qa36"
-path="res://.godot/imported/water-rocks.fbx-66d364c1beb0addd7a1d216329ac94a1.scn"
+path="res://.godot/imported/water-rocks.fbx-2468555b5263b6221478d89f073692a4.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/water-rocks.fbx"
-dest_files=["res://.godot/imported/water-rocks.fbx-66d364c1beb0addd7a1d216329ac94a1.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/water-rocks.fbx"
+dest_files=["res://.godot/imported/water-rocks.fbx-2468555b5263b6221478d89f073692a4.scn"]
 
 [params]
 

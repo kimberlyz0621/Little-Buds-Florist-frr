@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bq1d31is45c31"
-path="res://.godot/imported/path-start.obj-fab42e0c95cdd5bd06e6fc100f87a2fe.mesh"
+path="res://.godot/imported/path-start.obj-7f1bfd5ae47bb93d8a563e01e6728f84.mesh"
 
 [deps]
 
-files=["res://.godot/imported/path-start.obj-fab42e0c95cdd5bd06e6fc100f87a2fe.mesh"]
+files=["res://.godot/imported/path-start.obj-7f1bfd5ae47bb93d8a563e01e6728f84.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/path-start.obj"
-dest_files=["res://.godot/imported/path-start.obj-fab42e0c95cdd5bd06e6fc100f87a2fe.mesh", "res://.godot/imported/path-start.obj-fab42e0c95cdd5bd06e6fc100f87a2fe.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/path-start.obj"
+dest_files=["res://.godot/imported/path-start.obj-7f1bfd5ae47bb93d8a563e01e6728f84.mesh", "res://.godot/imported/path-start.obj-7f1bfd5ae47bb93d8a563e01e6728f84.mesh"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://p8yl6dvv3o8g"
-path="res://.godot/imported/building-mill.fbx-e7eb117f5624a62a0c7890966cbe1e0b.scn"
+path="res://.godot/imported/building-mill.fbx-8f38a3eabe4c67c5faa48e82264d8c34.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/building-mill.fbx"
-dest_files=["res://.godot/imported/building-mill.fbx-e7eb117f5624a62a0c7890966cbe1e0b.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/building-mill.fbx"
+dest_files=["res://.godot/imported/building-mill.fbx-8f38a3eabe4c67c5faa48e82264d8c34.scn"]
 
 [params]
 

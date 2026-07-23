@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://k7551kjnx3cc"
-path="res://.godot/imported/river-crossing.glb-b3a2c5e4885ff70066a35b75b36d0e7e.scn"
+path="res://.godot/imported/river-crossing.glb-76602c13a259b57b7e542462757b2e41.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/GLB format/river-crossing.glb"
-dest_files=["res://.godot/imported/river-crossing.glb-b3a2c5e4885ff70066a35b75b36d0e7e.scn"]
+source_file="res://kenney_hexagon-kit/Models/GLB format/river-crossing.glb"
+dest_files=["res://.godot/imported/river-crossing.glb-76602c13a259b57b7e542462757b2e41.scn"]
 
 [params]
 

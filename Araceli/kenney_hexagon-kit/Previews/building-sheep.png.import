@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0r6iol5tv7im"
-path="res://.godot/imported/building-sheep.png-d6f455aedece312576af206845677bc3.ctex"
+path="res://.godot/imported/building-sheep.png-475be5ad2c067142597d6d5eab6f5e11.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/building-sheep.png"
-dest_files=["res://.godot/imported/building-sheep.png-d6f455aedece312576af206845677bc3.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/building-sheep.png"
+dest_files=["res://.godot/imported/building-sheep.png-475be5ad2c067142597d6d5eab6f5e11.ctex"]
 
 [params]
 

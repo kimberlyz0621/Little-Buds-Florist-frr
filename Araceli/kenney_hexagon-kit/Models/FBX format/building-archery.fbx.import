@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dexefy2mr20hl"
-path="res://.godot/imported/building-archery.fbx-46fd525c5384b4c13ed315f44ab36bbd.scn"
+path="res://.godot/imported/building-archery.fbx-555e5fed7e857c9eb41c1f73bd67e059.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/building-archery.fbx"
-dest_files=["res://.godot/imported/building-archery.fbx-46fd525c5384b4c13ed315f44ab36bbd.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/building-archery.fbx"
+dest_files=["res://.godot/imported/building-archery.fbx-555e5fed7e857c9eb41c1f73bd67e059.scn"]
 
 [params]
 

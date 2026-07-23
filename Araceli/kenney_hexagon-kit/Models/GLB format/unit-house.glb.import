@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cxbna4lcpt16g"
-path="res://.godot/imported/unit-house.glb-3167c819c1797255ec012a3e178f7edb.scn"
+path="res://.godot/imported/unit-house.glb-0b501f367a642d10296d8c54e105e281.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/GLB format/unit-house.glb"
-dest_files=["res://.godot/imported/unit-house.glb-3167c819c1797255ec012a3e178f7edb.scn"]
+source_file="res://kenney_hexagon-kit/Models/GLB format/unit-house.glb"
+dest_files=["res://.godot/imported/unit-house.glb-0b501f367a642d10296d8c54e105e281.scn"]
 
 [params]
 

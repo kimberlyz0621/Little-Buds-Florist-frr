@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c741asbvgklrf"
-path="res://.godot/imported/building-mill.glb-17a684d7083e4fb90ae099e4ffb7c072.scn"
+path="res://.godot/imported/building-mill.glb-73bfea3410d6b4c2ef0ea5e6e658de59.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/GLB format/building-mill.glb"
-dest_files=["res://.godot/imported/building-mill.glb-17a684d7083e4fb90ae099e4ffb7c072.scn"]
+source_file="res://kenney_hexagon-kit/Models/GLB format/building-mill.glb"
+dest_files=["res://.godot/imported/building-mill.glb-73bfea3410d6b4c2ef0ea5e6e658de59.scn"]
 
 [params]
 

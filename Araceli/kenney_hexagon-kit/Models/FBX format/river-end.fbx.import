@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dvho4koh5nc0"
-path="res://.godot/imported/river-end.fbx-ea318f67b71942da8e68bd3a533700cb.scn"
+path="res://.godot/imported/river-end.fbx-7a7211daba92a40c239ff1bd3eaea551.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/river-end.fbx"
-dest_files=["res://.godot/imported/river-end.fbx-ea318f67b71942da8e68bd3a533700cb.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/river-end.fbx"
+dest_files=["res://.godot/imported/river-end.fbx-7a7211daba92a40c239ff1bd3eaea551.scn"]
 
 [params]
 

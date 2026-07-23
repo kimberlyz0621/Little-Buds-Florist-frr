@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://e3l588aubiul"
-path="res://.godot/imported/stone-rocks.obj-85966590bf80f681897e94d226279e6e.mesh"
+path="res://.godot/imported/stone-rocks.obj-a7e85dd202d558d9a73ff3a8247f7ed8.mesh"
 
 [deps]
 
-files=["res://.godot/imported/stone-rocks.obj-85966590bf80f681897e94d226279e6e.mesh"]
+files=["res://.godot/imported/stone-rocks.obj-a7e85dd202d558d9a73ff3a8247f7ed8.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/stone-rocks.obj"
-dest_files=["res://.godot/imported/stone-rocks.obj-85966590bf80f681897e94d226279e6e.mesh", "res://.godot/imported/stone-rocks.obj-85966590bf80f681897e94d226279e6e.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/stone-rocks.obj"
+dest_files=["res://.godot/imported/stone-rocks.obj-a7e85dd202d558d9a73ff3a8247f7ed8.mesh", "res://.godot/imported/stone-rocks.obj-a7e85dd202d558d9a73ff3a8247f7ed8.mesh"]
 
 [params]
 

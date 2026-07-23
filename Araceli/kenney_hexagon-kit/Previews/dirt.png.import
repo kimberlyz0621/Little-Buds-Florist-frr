@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brevmwdby2dil"
-path="res://.godot/imported/dirt.png-36eb9f47f09ea33fec02b4bcc0852008.ctex"
+path="res://.godot/imported/dirt.png-fde335a5a8ea9c1120d7cb763e518abd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/dirt.png"
-dest_files=["res://.godot/imported/dirt.png-36eb9f47f09ea33fec02b4bcc0852008.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/dirt.png"
+dest_files=["res://.godot/imported/dirt.png-fde335a5a8ea9c1120d7cb763e518abd.ctex"]
 
 [params]
 

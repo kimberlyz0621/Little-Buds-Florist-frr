@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dsd5b6n057xvw"
-path="res://.godot/imported/unit-wall-tower.fbx-7e0824336287bc475792df4ac589dafd.scn"
+path="res://.godot/imported/unit-wall-tower.fbx-9787db126b788bdc324aa5bf3cfee247.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/unit-wall-tower.fbx"
-dest_files=["res://.godot/imported/unit-wall-tower.fbx-7e0824336287bc475792df4ac589dafd.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/unit-wall-tower.fbx"
+dest_files=["res://.godot/imported/unit-wall-tower.fbx-9787db126b788bdc324aa5bf3cfee247.scn"]
 
 [params]
 

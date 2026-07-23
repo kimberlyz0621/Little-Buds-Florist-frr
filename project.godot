@@ -10,8 +10,7 @@ config_version=5
 
 [application]
 
-config/name="little buds florist frr"
-run/main_scene="uid://kdjqswcuto4k"
+config/name="Little Buds Florist 2"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
 
@@ -19,6 +18,18 @@ config/icon="res://icon.svg"
 
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 534aa3c4fc1a247a5be0f95bb836d92a1488a00f
+=======
+>>>>>>> 534aa3c4fc1a247a5be0f95bb836d92a1488a00f
+[filesystem]
+
+import/blender/enabled=false
 
 [input]
 
@@ -28,6 +39,7 @@ left_mouse_click={
 ]
 }
 
+>>>>>>> 534aa3c4fc1a247a5be0f95bb836d92a1488a00f
 [physics]
 
 3d/physics_engine="Jolt Physics"

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://tk0l2gb8fn4q"
-path="res://.godot/imported/building-smelter.fbx-86a79f61bcb21efba72a9729f0edfb76.scn"
+path="res://.godot/imported/building-smelter.fbx-981565369fefd73264f7f5da675e5a66.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/building-smelter.fbx"
-dest_files=["res://.godot/imported/building-smelter.fbx-86a79f61bcb21efba72a9729f0edfb76.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/building-smelter.fbx"
+dest_files=["res://.godot/imported/building-smelter.fbx-981565369fefd73264f7f5da675e5a66.scn"]
 
 [params]
 

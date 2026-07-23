@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://fvm4y556cgl4"
-path="res://.godot/imported/sand-rocks.fbx-955b6689496091369dcf4b84ec232a6e.scn"
+path="res://.godot/imported/sand-rocks.fbx-24e03de4b09f0a51169be7ff24f63852.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/sand-rocks.fbx"
-dest_files=["res://.godot/imported/sand-rocks.fbx-955b6689496091369dcf4b84ec232a6e.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/sand-rocks.fbx"
+dest_files=["res://.godot/imported/sand-rocks.fbx-24e03de4b09f0a51169be7ff24f63852.scn"]
 
 [params]
 

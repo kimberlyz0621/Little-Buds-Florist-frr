@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://j2ocjundnsou"
-path="res://.godot/imported/stone-hill.glb-fd7cd56d914edc35dad175a19466948c.scn"
+path="res://.godot/imported/stone-hill.glb-c8d9ba53896f547e5dfe1be40db89fe2.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/GLB format/stone-hill.glb"
-dest_files=["res://.godot/imported/stone-hill.glb-fd7cd56d914edc35dad175a19466948c.scn"]
+source_file="res://kenney_hexagon-kit/Models/GLB format/stone-hill.glb"
+dest_files=["res://.godot/imported/stone-hill.glb-c8d9ba53896f547e5dfe1be40db89fe2.scn"]
 
 [params]
 

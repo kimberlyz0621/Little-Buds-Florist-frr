@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://stav3278auri"
-path="res://.godot/imported/water-island.obj-a7da8ffbc13da3d260d3b5b8d6520fa1.mesh"
+path="res://.godot/imported/water-island.obj-6067491f335cf574db1ca5fa2f3feefd.mesh"
 
 [deps]
 
-files=["res://.godot/imported/water-island.obj-a7da8ffbc13da3d260d3b5b8d6520fa1.mesh"]
+files=["res://.godot/imported/water-island.obj-6067491f335cf574db1ca5fa2f3feefd.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/water-island.obj"
-dest_files=["res://.godot/imported/water-island.obj-a7da8ffbc13da3d260d3b5b8d6520fa1.mesh", "res://.godot/imported/water-island.obj-a7da8ffbc13da3d260d3b5b8d6520fa1.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/water-island.obj"
+dest_files=["res://.godot/imported/water-island.obj-6067491f335cf574db1ca5fa2f3feefd.mesh", "res://.godot/imported/water-island.obj-6067491f335cf574db1ca5fa2f3feefd.mesh"]
 
 [params]
 

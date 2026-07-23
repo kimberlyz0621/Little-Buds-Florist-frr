@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dutx02haydf16"
-path="res://.godot/imported/building-market.png-f065e7c868236623bc8400671f5385f5.ctex"
+path="res://.godot/imported/building-market.png-8dc3180ebfd1298c38d38c31e2e55b68.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/building-market.png"
-dest_files=["res://.godot/imported/building-market.png-f065e7c868236623bc8400671f5385f5.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/building-market.png"
+dest_files=["res://.godot/imported/building-market.png-8dc3180ebfd1298c38d38c31e2e55b68.ctex"]
 
 [params]
 

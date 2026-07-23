@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://baw4if6bxrh36"
-path="res://.godot/imported/sand.glb-c3335183c4b5da81dd89e67808fa8469.scn"
+path="res://.godot/imported/sand.glb-65942fe660b09987a5d4490bc3de6ad7.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/GLB format/sand.glb"
-dest_files=["res://.godot/imported/sand.glb-c3335183c4b5da81dd89e67808fa8469.scn"]
+source_file="res://kenney_hexagon-kit/Models/GLB format/sand.glb"
+dest_files=["res://.godot/imported/sand.glb-65942fe660b09987a5d4490bc3de6ad7.scn"]
 
 [params]
 

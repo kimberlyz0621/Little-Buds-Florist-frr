@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://civ6xbquss563"
-path="res://.godot/imported/path-intersectionE.png-afe0234f1abff474e1ced404605a8041.ctex"
+path="res://.godot/imported/path-intersectionE.png-de69e4810fed4100feb51f305b8d7a34.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/path-intersectionE.png"
-dest_files=["res://.godot/imported/path-intersectionE.png-afe0234f1abff474e1ced404605a8041.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/path-intersectionE.png"
+dest_files=["res://.godot/imported/path-intersectionE.png-de69e4810fed4100feb51f305b8d7a34.ctex"]
 
 [params]
 

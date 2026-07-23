@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://byxfeblnuxd3c"
-path="res://.godot/imported/river-start.fbx-92dcd14886778367ef7af249fb44cd9e.scn"
+path="res://.godot/imported/river-start.fbx-063d9505adc1fb4d49341babbd1f8e62.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/river-start.fbx"
-dest_files=["res://.godot/imported/river-start.fbx-92dcd14886778367ef7af249fb44cd9e.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/river-start.fbx"
+dest_files=["res://.godot/imported/river-start.fbx-063d9505adc1fb4d49341babbd1f8e62.scn"]
 
 [params]
 

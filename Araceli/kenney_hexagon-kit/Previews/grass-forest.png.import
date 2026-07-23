@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxqg6s0hgxsat"
-path="res://.godot/imported/grass-forest.png-c15fbac447fc44658d1fe469ed724a57.ctex"
+path="res://.godot/imported/grass-forest.png-01e4608c5845d9ac9188ecfd7cb005da.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/grass-forest.png"
-dest_files=["res://.godot/imported/grass-forest.png-c15fbac447fc44658d1fe469ed724a57.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/grass-forest.png"
+dest_files=["res://.godot/imported/grass-forest.png-01e4608c5845d9ac9188ecfd7cb005da.ctex"]
 
 [params]
 

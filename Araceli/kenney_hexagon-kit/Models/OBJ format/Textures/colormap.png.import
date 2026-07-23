@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brasp3dlh2lww"
-path.s3tc="res://.godot/imported/colormap.png-0ece6185559147465dc2e5a7afbde602.s3tc.ctex"
+path.s3tc="res://.godot/imported/colormap.png-1ebf36f70c6f21b6deb3c1da8d4a8545.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/Textures/colormap.png"
-dest_files=["res://.godot/imported/colormap.png-0ece6185559147465dc2e5a7afbde602.s3tc.ctex"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/Textures/colormap.png"
+dest_files=["res://.godot/imported/colormap.png-1ebf36f70c6f21b6deb3c1da8d4a8545.s3tc.ctex"]
 
 [params]
 

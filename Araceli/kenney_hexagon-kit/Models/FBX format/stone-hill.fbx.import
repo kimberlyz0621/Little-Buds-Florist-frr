@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://crjmot2jlgg55"
-path="res://.godot/imported/stone-hill.fbx-a7c08e63f8845c7c12d33f9dd4ee88a0.scn"
+path="res://.godot/imported/stone-hill.fbx-3e7f744af13983a97917d058f3a16588.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/stone-hill.fbx"
-dest_files=["res://.godot/imported/stone-hill.fbx-a7c08e63f8845c7c12d33f9dd4ee88a0.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/stone-hill.fbx"
+dest_files=["res://.godot/imported/stone-hill.fbx-3e7f744af13983a97917d058f3a16588.scn"]
 
 [params]
 

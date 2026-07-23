@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cairgb74gx8u4"
-path="res://.godot/imported/bridge.obj-9cc63d9f44c31c59eb4525f1101eeda3.mesh"
+path="res://.godot/imported/bridge.obj-09bf06c2c141f01deba945b674da0b53.mesh"
 
 [deps]
 
-files=["res://.godot/imported/bridge.obj-9cc63d9f44c31c59eb4525f1101eeda3.mesh"]
+files=["res://.godot/imported/bridge.obj-09bf06c2c141f01deba945b674da0b53.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/bridge.obj"
-dest_files=["res://.godot/imported/bridge.obj-9cc63d9f44c31c59eb4525f1101eeda3.mesh", "res://.godot/imported/bridge.obj-9cc63d9f44c31c59eb4525f1101eeda3.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/bridge.obj"
+dest_files=["res://.godot/imported/bridge.obj-09bf06c2c141f01deba945b674da0b53.mesh", "res://.godot/imported/bridge.obj-09bf06c2c141f01deba945b674da0b53.mesh"]
 
 [params]
 

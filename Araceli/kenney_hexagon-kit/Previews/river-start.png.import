@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnuhnljuhjqbj"
-path="res://.godot/imported/river-start.png-e79e3761699c76ccf350ff021a59f514.ctex"
+path="res://.godot/imported/river-start.png-a28bd25e064c718ead317d99ae14b414.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/river-start.png"
-dest_files=["res://.godot/imported/river-start.png-e79e3761699c76ccf350ff021a59f514.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/river-start.png"
+dest_files=["res://.godot/imported/river-start.png-a28bd25e064c718ead317d99ae14b414.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://xfv2egymrcae"
-path="res://.godot/imported/building-mine.glb-d3355ccba097ed46ed3e67137709ac5e.scn"
+path="res://.godot/imported/building-mine.glb-f50d7b7539f701f7da0ea8c93ba49fa8.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/GLB format/building-mine.glb"
-dest_files=["res://.godot/imported/building-mine.glb-d3355ccba097ed46ed3e67137709ac5e.scn"]
+source_file="res://kenney_hexagon-kit/Models/GLB format/building-mine.glb"
+dest_files=["res://.godot/imported/building-mine.glb-f50d7b7539f701f7da0ea8c93ba49fa8.scn"]
 
 [params]
 

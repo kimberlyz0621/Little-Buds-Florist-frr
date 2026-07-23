@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bytqfyvh2cfdo"
-path="res://.godot/imported/path-square-end.png-d8f2975b3cbf922cc8ef0cfa17b9315c.ctex"
+path="res://.godot/imported/path-square-end.png-a957c3423a4076d4a927efb86739f50d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/path-square-end.png"
-dest_files=["res://.godot/imported/path-square-end.png-d8f2975b3cbf922cc8ef0cfa17b9315c.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/path-square-end.png"
+dest_files=["res://.godot/imported/path-square-end.png-a957c3423a4076d4a927efb86739f50d.ctex"]
 
 [params]
 

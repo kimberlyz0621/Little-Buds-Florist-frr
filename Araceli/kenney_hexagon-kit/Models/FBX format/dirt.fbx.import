@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bk172pf8lmpx1"
-path="res://.godot/imported/dirt.fbx-a6fa1825d5e096994282a6adfe584a2e.scn"
+path="res://.godot/imported/dirt.fbx-956e10e0b7c31b5a85c72c0a919d9663.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/dirt.fbx"
-dest_files=["res://.godot/imported/dirt.fbx-a6fa1825d5e096994282a6adfe584a2e.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/dirt.fbx"
+dest_files=["res://.godot/imported/dirt.fbx-956e10e0b7c31b5a85c72c0a919d9663.scn"]
 
 [params]
 

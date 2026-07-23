@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://c4h4qvkm6wtqs"
-path="res://.godot/imported/building-wizard-tower.obj-2dba4c71121ca0f5380c8320e5c106b4.mesh"
+path="res://.godot/imported/building-wizard-tower.obj-2ba0e155c57912750dcc3c88c0838e13.mesh"
 
 [deps]
 
-files=["res://.godot/imported/building-wizard-tower.obj-2dba4c71121ca0f5380c8320e5c106b4.mesh"]
+files=["res://.godot/imported/building-wizard-tower.obj-2ba0e155c57912750dcc3c88c0838e13.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/building-wizard-tower.obj"
-dest_files=["res://.godot/imported/building-wizard-tower.obj-2dba4c71121ca0f5380c8320e5c106b4.mesh", "res://.godot/imported/building-wizard-tower.obj-2dba4c71121ca0f5380c8320e5c106b4.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/building-wizard-tower.obj"
+dest_files=["res://.godot/imported/building-wizard-tower.obj-2ba0e155c57912750dcc3c88c0838e13.mesh", "res://.godot/imported/building-wizard-tower.obj-2ba0e155c57912750dcc3c88c0838e13.mesh"]
 
 [params]
 

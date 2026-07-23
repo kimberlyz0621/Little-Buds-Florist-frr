@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://sjttpmnbjqay"
-path="res://.godot/imported/building-archery.obj-e3b3a4e6edf429b4fe32f94459da148d.mesh"
+path="res://.godot/imported/building-archery.obj-a52fe65691e9186608a41afa3a76bc4d.mesh"
 
 [deps]
 
-files=["res://.godot/imported/building-archery.obj-e3b3a4e6edf429b4fe32f94459da148d.mesh"]
+files=["res://.godot/imported/building-archery.obj-a52fe65691e9186608a41afa3a76bc4d.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/building-archery.obj"
-dest_files=["res://.godot/imported/building-archery.obj-e3b3a4e6edf429b4fe32f94459da148d.mesh", "res://.godot/imported/building-archery.obj-e3b3a4e6edf429b4fe32f94459da148d.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/building-archery.obj"
+dest_files=["res://.godot/imported/building-archery.obj-a52fe65691e9186608a41afa3a76bc4d.mesh", "res://.godot/imported/building-archery.obj-a52fe65691e9186608a41afa3a76bc4d.mesh"]
 
 [params]
 

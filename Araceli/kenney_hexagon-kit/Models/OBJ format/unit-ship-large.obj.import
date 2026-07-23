@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://vmkq23ecagv0"
-path="res://.godot/imported/unit-ship-large.obj-f9bbe55aea137d6fa514c15ac34d8ce7.mesh"
+path="res://.godot/imported/unit-ship-large.obj-4378feb045bdf09a0314470e36b647c7.mesh"
 
 [deps]
 
-files=["res://.godot/imported/unit-ship-large.obj-f9bbe55aea137d6fa514c15ac34d8ce7.mesh"]
+files=["res://.godot/imported/unit-ship-large.obj-4378feb045bdf09a0314470e36b647c7.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/unit-ship-large.obj"
-dest_files=["res://.godot/imported/unit-ship-large.obj-f9bbe55aea137d6fa514c15ac34d8ce7.mesh", "res://.godot/imported/unit-ship-large.obj-f9bbe55aea137d6fa514c15ac34d8ce7.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/unit-ship-large.obj"
+dest_files=["res://.godot/imported/unit-ship-large.obj-4378feb045bdf09a0314470e36b647c7.mesh", "res://.godot/imported/unit-ship-large.obj-4378feb045bdf09a0314470e36b647c7.mesh"]
 
 [params]
 

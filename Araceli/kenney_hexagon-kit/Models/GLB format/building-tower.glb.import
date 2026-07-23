@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d1qx6cj7n4kc8"
-path="res://.godot/imported/building-tower.glb-f9945562e4992446ea03b573f30984e4.scn"
+path="res://.godot/imported/building-tower.glb-250020b6a913df86a1b14d1662fcbff7.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/GLB format/building-tower.glb"
-dest_files=["res://.godot/imported/building-tower.glb-f9945562e4992446ea03b573f30984e4.scn"]
+source_file="res://kenney_hexagon-kit/Models/GLB format/building-tower.glb"
+dest_files=["res://.godot/imported/building-tower.glb-250020b6a913df86a1b14d1662fcbff7.scn"]
 
 [params]
 

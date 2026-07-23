@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cksy53f8wxcp7"
-path="res://.godot/imported/path-corner-sharp.glb-4bc5ea81977c4e89932cc49a2e7544f1.scn"
+path="res://.godot/imported/path-corner-sharp.glb-8277d0a22dcdae66d15937800d1847b2.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/GLB format/path-corner-sharp.glb"
-dest_files=["res://.godot/imported/path-corner-sharp.glb-4bc5ea81977c4e89932cc49a2e7544f1.scn"]
+source_file="res://kenney_hexagon-kit/Models/GLB format/path-corner-sharp.glb"
+dest_files=["res://.godot/imported/path-corner-sharp.glb-8277d0a22dcdae66d15937800d1847b2.scn"]
 
 [params]
 

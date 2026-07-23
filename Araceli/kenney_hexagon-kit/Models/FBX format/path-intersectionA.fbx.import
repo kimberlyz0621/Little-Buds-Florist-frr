@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://l44yw4u34dbp"
-path="res://.godot/imported/path-intersectionA.fbx-4712d7c740eb682f8c719a6aa10636e5.scn"
+path="res://.godot/imported/path-intersectionA.fbx-dc42ac4539244d81fe42d9e9c699319b.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/path-intersectionA.fbx"
-dest_files=["res://.godot/imported/path-intersectionA.fbx-4712d7c740eb682f8c719a6aa10636e5.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/path-intersectionA.fbx"
+dest_files=["res://.godot/imported/path-intersectionA.fbx-dc42ac4539244d81fe42d9e9c699319b.scn"]
 
 [params]
 

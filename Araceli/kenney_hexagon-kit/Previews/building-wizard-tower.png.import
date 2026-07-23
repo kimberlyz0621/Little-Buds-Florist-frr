@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bp6uiaxruejth"
-path="res://.godot/imported/building-wizard-tower.png-1a34d25e4e4e3c7e3c1808130d739733.ctex"
+path="res://.godot/imported/building-wizard-tower.png-55b5600df8069ba941b38fe8cce8cdf7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/building-wizard-tower.png"
-dest_files=["res://.godot/imported/building-wizard-tower.png-1a34d25e4e4e3c7e3c1808130d739733.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/building-wizard-tower.png"
+dest_files=["res://.godot/imported/building-wizard-tower.png-55b5600df8069ba941b38fe8cce8cdf7.ctex"]
 
 [params]
 

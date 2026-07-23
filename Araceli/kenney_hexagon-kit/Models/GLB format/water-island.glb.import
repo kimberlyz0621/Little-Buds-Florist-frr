@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c8i6pab75u6s2"
-path="res://.godot/imported/water-island.glb-a89c3dee306819010527a730ba8481a9.scn"
+path="res://.godot/imported/water-island.glb-a11c37354c4295d499d4c564e22a9942.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/GLB format/water-island.glb"
-dest_files=["res://.godot/imported/water-island.glb-a89c3dee306819010527a730ba8481a9.scn"]
+source_file="res://kenney_hexagon-kit/Models/GLB format/water-island.glb"
+dest_files=["res://.godot/imported/water-island.glb-a11c37354c4295d499d4c564e22a9942.scn"]
 
 [params]
 

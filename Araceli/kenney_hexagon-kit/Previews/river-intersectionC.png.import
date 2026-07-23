@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3uhs0ra7sxsg"
-path="res://.godot/imported/river-intersectionC.png-2250e7782d485e0282337735ec9f0c40.ctex"
+path="res://.godot/imported/river-intersectionC.png-c214901d77fb14633fcf8002762c7f25.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/river-intersectionC.png"
-dest_files=["res://.godot/imported/river-intersectionC.png-2250e7782d485e0282337735ec9f0c40.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/river-intersectionC.png"
+dest_files=["res://.godot/imported/river-intersectionC.png-c214901d77fb14633fcf8002762c7f25.ctex"]
 
 [params]
 

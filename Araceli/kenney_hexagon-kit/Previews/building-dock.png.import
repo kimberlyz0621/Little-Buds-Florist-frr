@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c63esme0bkuen"
-path="res://.godot/imported/building-dock.png-0968820e73b3b3d1f5d06f9cf8f54f1c.ctex"
+path="res://.godot/imported/building-dock.png-eccb66a3f95ad8aad5d23fb03c9985e0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/building-dock.png"
-dest_files=["res://.godot/imported/building-dock.png-0968820e73b3b3d1f5d06f9cf8f54f1c.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/building-dock.png"
+dest_files=["res://.godot/imported/building-dock.png-eccb66a3f95ad8aad5d23fb03c9985e0.ctex"]
 
 [params]
 

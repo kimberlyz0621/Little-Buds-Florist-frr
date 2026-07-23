@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://d3ds8ut6vx7nw"
-path="res://.godot/imported/stone-hill.obj-256a0b3bd2489d2b533d59eb61416eb4.mesh"
+path="res://.godot/imported/stone-hill.obj-eab79f192f2f6b861258c5b7dca44399.mesh"
 
 [deps]
 
-files=["res://.godot/imported/stone-hill.obj-256a0b3bd2489d2b533d59eb61416eb4.mesh"]
+files=["res://.godot/imported/stone-hill.obj-eab79f192f2f6b861258c5b7dca44399.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/stone-hill.obj"
-dest_files=["res://.godot/imported/stone-hill.obj-256a0b3bd2489d2b533d59eb61416eb4.mesh", "res://.godot/imported/stone-hill.obj-256a0b3bd2489d2b533d59eb61416eb4.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/stone-hill.obj"
+dest_files=["res://.godot/imported/stone-hill.obj-eab79f192f2f6b861258c5b7dca44399.mesh", "res://.godot/imported/stone-hill.obj-eab79f192f2f6b861258c5b7dca44399.mesh"]
 
 [params]
 

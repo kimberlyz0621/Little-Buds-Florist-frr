@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfufva21khou3"
-path="res://.godot/imported/river-corner-sharp.png-87f5b7f5b1a1a587365cd2de2de946b6.ctex"
+path="res://.godot/imported/river-corner-sharp.png-6366844d23253e0fa8492bd07a3af11e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/river-corner-sharp.png"
-dest_files=["res://.godot/imported/river-corner-sharp.png-87f5b7f5b1a1a587365cd2de2de946b6.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/river-corner-sharp.png"
+dest_files=["res://.godot/imported/river-corner-sharp.png-6366844d23253e0fa8492bd07a3af11e.ctex"]
 
 [params]
 

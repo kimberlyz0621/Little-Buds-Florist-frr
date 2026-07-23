@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cx7x7o2cal8t5"
-path="res://.godot/imported/bridge.fbx-dbc6e9a4c2539490dc8a2c39c9f326fd.scn"
+path="res://.godot/imported/bridge.fbx-c4ea71fa892e6547216f40db864522f6.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/bridge.fbx"
-dest_files=["res://.godot/imported/bridge.fbx-dbc6e9a4c2539490dc8a2c39c9f326fd.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/bridge.fbx"
+dest_files=["res://.godot/imported/bridge.fbx-c4ea71fa892e6547216f40db864522f6.scn"]
 
 [params]
 

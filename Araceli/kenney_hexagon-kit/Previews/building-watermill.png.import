@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7ku6luh43os"
-path="res://.godot/imported/building-watermill.png-cee64356f770e19994a12b2ddb932dfd.ctex"
+path="res://.godot/imported/building-watermill.png-ef1e0da7845eeb2425bc2b83684200bd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/building-watermill.png"
-dest_files=["res://.godot/imported/building-watermill.png-cee64356f770e19994a12b2ddb932dfd.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/building-watermill.png"
+dest_files=["res://.godot/imported/building-watermill.png-ef1e0da7845eeb2425bc2b83684200bd.ctex"]
 
 [params]
 

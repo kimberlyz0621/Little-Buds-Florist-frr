@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c5644j6oka8m1"
-path="res://.godot/imported/water-rocks.glb-0c909b81708fd3d0c6c30b98ff893ab4.scn"
+path="res://.godot/imported/water-rocks.glb-a3982b6beb247ef7f4fd213ac08fca2a.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/GLB format/water-rocks.glb"
-dest_files=["res://.godot/imported/water-rocks.glb-0c909b81708fd3d0c6c30b98ff893ab4.scn"]
+source_file="res://kenney_hexagon-kit/Models/GLB format/water-rocks.glb"
+dest_files=["res://.godot/imported/water-rocks.glb-a3982b6beb247ef7f4fd213ac08fca2a.scn"]
 
 [params]
 

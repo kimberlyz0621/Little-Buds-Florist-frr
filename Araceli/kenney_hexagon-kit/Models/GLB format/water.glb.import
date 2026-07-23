@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dwxw2gxkaylji"
-path="res://.godot/imported/water.glb-bd38e4089aa028796bdd91776155819c.scn"
+path="res://.godot/imported/water.glb-fb018e2f3d6d79211ee7d6d1d82cd036.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/GLB format/water.glb"
-dest_files=["res://.godot/imported/water.glb-bd38e4089aa028796bdd91776155819c.scn"]
+source_file="res://kenney_hexagon-kit/Models/GLB format/water.glb"
+dest_files=["res://.godot/imported/water.glb-fb018e2f3d6d79211ee7d6d1d82cd036.scn"]
 
 [params]
 

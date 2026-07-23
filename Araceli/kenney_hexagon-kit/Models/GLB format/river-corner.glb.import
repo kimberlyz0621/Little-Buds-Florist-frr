@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://i3tetotornh1"
-path="res://.godot/imported/river-corner.glb-b3a7b9e0623e8c1c32112ce1c94b194c.scn"
+path="res://.godot/imported/river-corner.glb-b1c2e6207d6c86d5ff8e2a5b4038e1f8.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/GLB format/river-corner.glb"
-dest_files=["res://.godot/imported/river-corner.glb-b3a7b9e0623e8c1c32112ce1c94b194c.scn"]
+source_file="res://kenney_hexagon-kit/Models/GLB format/river-corner.glb"
+dest_files=["res://.godot/imported/river-corner.glb-b1c2e6207d6c86d5ff8e2a5b4038e1f8.scn"]
 
 [params]
 

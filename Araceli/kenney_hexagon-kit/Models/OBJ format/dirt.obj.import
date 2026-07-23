@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cc22lis8fhqyp"
-path="res://.godot/imported/dirt.obj-5d4b98cefd5d245b58727af8c2cc9a2d.mesh"
+path="res://.godot/imported/dirt.obj-66370823f2546dd524a4cff810cf4bb3.mesh"
 
 [deps]
 
-files=["res://.godot/imported/dirt.obj-5d4b98cefd5d245b58727af8c2cc9a2d.mesh"]
+files=["res://.godot/imported/dirt.obj-66370823f2546dd524a4cff810cf4bb3.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/dirt.obj"
-dest_files=["res://.godot/imported/dirt.obj-5d4b98cefd5d245b58727af8c2cc9a2d.mesh", "res://.godot/imported/dirt.obj-5d4b98cefd5d245b58727af8c2cc9a2d.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/dirt.obj"
+dest_files=["res://.godot/imported/dirt.obj-66370823f2546dd524a4cff810cf4bb3.mesh", "res://.godot/imported/dirt.obj-66370823f2546dd524a4cff810cf4bb3.mesh"]
 
 [params]
 

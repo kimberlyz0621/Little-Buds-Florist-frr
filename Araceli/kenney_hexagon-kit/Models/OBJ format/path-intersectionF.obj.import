@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bfa8sj2be5kid"
-path="res://.godot/imported/path-intersectionF.obj-e944ddf4a54b37a188cb49c4e13f124d.mesh"
+path="res://.godot/imported/path-intersectionF.obj-bf3d79e39440f712a84b19b5301577c7.mesh"
 
 [deps]
 
-files=["res://.godot/imported/path-intersectionF.obj-e944ddf4a54b37a188cb49c4e13f124d.mesh"]
+files=["res://.godot/imported/path-intersectionF.obj-bf3d79e39440f712a84b19b5301577c7.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/path-intersectionF.obj"
-dest_files=["res://.godot/imported/path-intersectionF.obj-e944ddf4a54b37a188cb49c4e13f124d.mesh", "res://.godot/imported/path-intersectionF.obj-e944ddf4a54b37a188cb49c4e13f124d.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/path-intersectionF.obj"
+dest_files=["res://.godot/imported/path-intersectionF.obj-bf3d79e39440f712a84b19b5301577c7.mesh", "res://.godot/imported/path-intersectionF.obj-bf3d79e39440f712a84b19b5301577c7.mesh"]
 
 [params]
 

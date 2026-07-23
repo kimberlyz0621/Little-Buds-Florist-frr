@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xwe7c1rwwda1"
-path="res://.godot/imported/river-straight.png-7c60b118ec849b1cd977b0b2233aee05.ctex"
+path="res://.godot/imported/river-straight.png-cdedee1842052044b9d09490b789a351.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/river-straight.png"
-dest_files=["res://.godot/imported/river-straight.png-7c60b118ec849b1cd977b0b2233aee05.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/river-straight.png"
+dest_files=["res://.godot/imported/river-straight.png-cdedee1842052044b9d09490b789a351.ctex"]
 
 [params]
 

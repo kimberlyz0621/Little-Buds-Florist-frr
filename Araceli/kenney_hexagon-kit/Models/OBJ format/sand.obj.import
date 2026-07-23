@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://du1bptt3gdxth"
-path="res://.godot/imported/sand.obj-dffeee0e94966f798d040f496d8fa59b.mesh"
+path="res://.godot/imported/sand.obj-38300d40051bc06eb64b08e54c93257a.mesh"
 
 [deps]
 
-files=["res://.godot/imported/sand.obj-dffeee0e94966f798d040f496d8fa59b.mesh"]
+files=["res://.godot/imported/sand.obj-38300d40051bc06eb64b08e54c93257a.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/sand.obj"
-dest_files=["res://.godot/imported/sand.obj-dffeee0e94966f798d040f496d8fa59b.mesh", "res://.godot/imported/sand.obj-dffeee0e94966f798d040f496d8fa59b.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/sand.obj"
+dest_files=["res://.godot/imported/sand.obj-38300d40051bc06eb64b08e54c93257a.mesh", "res://.godot/imported/sand.obj-38300d40051bc06eb64b08e54c93257a.mesh"]
 
 [params]
 

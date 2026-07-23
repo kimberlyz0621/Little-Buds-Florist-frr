@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://b3ppq27pi5yn8"
-path="res://.godot/imported/unit-mill.obj-a5e55752e0330206ce6e0ced81d9ec9f.mesh"
+path="res://.godot/imported/unit-mill.obj-8fe4976f9146cb5da75ce99a356da9ee.mesh"
 
 [deps]
 
-files=["res://.godot/imported/unit-mill.obj-a5e55752e0330206ce6e0ced81d9ec9f.mesh"]
+files=["res://.godot/imported/unit-mill.obj-8fe4976f9146cb5da75ce99a356da9ee.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/unit-mill.obj"
-dest_files=["res://.godot/imported/unit-mill.obj-a5e55752e0330206ce6e0ced81d9ec9f.mesh", "res://.godot/imported/unit-mill.obj-a5e55752e0330206ce6e0ced81d9ec9f.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/unit-mill.obj"
+dest_files=["res://.godot/imported/unit-mill.obj-8fe4976f9146cb5da75ce99a356da9ee.mesh", "res://.godot/imported/unit-mill.obj-8fe4976f9146cb5da75ce99a356da9ee.mesh"]
 
 [params]
 

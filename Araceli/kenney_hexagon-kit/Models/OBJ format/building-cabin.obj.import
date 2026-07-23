@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://b0d1iov8nu878"
-path="res://.godot/imported/building-cabin.obj-7b1fe916033372049c13eeb22fedb3ff.mesh"
+path="res://.godot/imported/building-cabin.obj-b54f9edfb1d916b197eed58dd403d1a5.mesh"
 
 [deps]
 
-files=["res://.godot/imported/building-cabin.obj-7b1fe916033372049c13eeb22fedb3ff.mesh"]
+files=["res://.godot/imported/building-cabin.obj-b54f9edfb1d916b197eed58dd403d1a5.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/building-cabin.obj"
-dest_files=["res://.godot/imported/building-cabin.obj-7b1fe916033372049c13eeb22fedb3ff.mesh", "res://.godot/imported/building-cabin.obj-7b1fe916033372049c13eeb22fedb3ff.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/building-cabin.obj"
+dest_files=["res://.godot/imported/building-cabin.obj-b54f9edfb1d916b197eed58dd403d1a5.mesh", "res://.godot/imported/building-cabin.obj-b54f9edfb1d916b197eed58dd403d1a5.mesh"]
 
 [params]
 

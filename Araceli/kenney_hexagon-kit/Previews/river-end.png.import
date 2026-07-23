@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3yi33fs2yvg8"
-path="res://.godot/imported/river-end.png-a3b1471d5c7403fa0e494a541fdd0bf1.ctex"
+path="res://.godot/imported/river-end.png-d9adfac876044483e1c10b673083c761.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/river-end.png"
-dest_files=["res://.godot/imported/river-end.png-a3b1471d5c7403fa0e494a541fdd0bf1.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/river-end.png"
+dest_files=["res://.godot/imported/river-end.png-d9adfac876044483e1c10b673083c761.ctex"]
 
 [params]
 

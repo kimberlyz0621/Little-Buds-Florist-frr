@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dmd62o747e0ey"
-path="res://.godot/imported/dirt-lumber.glb-d5a868cfaf6112699c00234d58e58cbd.scn"
+path="res://.godot/imported/dirt-lumber.glb-70901cc4000036b80f3b6348797c6476.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/GLB format/dirt-lumber.glb"
-dest_files=["res://.godot/imported/dirt-lumber.glb-d5a868cfaf6112699c00234d58e58cbd.scn"]
+source_file="res://kenney_hexagon-kit/Models/GLB format/dirt-lumber.glb"
+dest_files=["res://.godot/imported/dirt-lumber.glb-70901cc4000036b80f3b6348797c6476.scn"]
 
 [params]
 

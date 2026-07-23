@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://k57r1llwe4aa"
-path="res://.godot/imported/stone-mountain.png-3666538f05c5977e288bd1cf7c715d4b.ctex"
+path="res://.godot/imported/stone-mountain.png-022e71938755cc8dd5008ad647dc2c74.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/stone-mountain.png"
-dest_files=["res://.godot/imported/stone-mountain.png-3666538f05c5977e288bd1cf7c715d4b.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/stone-mountain.png"
+dest_files=["res://.godot/imported/stone-mountain.png-022e71938755cc8dd5008ad647dc2c74.ctex"]
 
 [params]
 

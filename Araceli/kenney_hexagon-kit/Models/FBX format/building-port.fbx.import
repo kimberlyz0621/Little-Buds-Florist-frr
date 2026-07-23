@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b0sutlsk6heid"
-path="res://.godot/imported/building-port.fbx-fdf40c982abea68d5424321f480c3cbd.scn"
+path="res://.godot/imported/building-port.fbx-4c3dfcfb8c08667a933aa10e9cc3b9d7.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/building-port.fbx"
-dest_files=["res://.godot/imported/building-port.fbx-fdf40c982abea68d5424321f480c3cbd.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/building-port.fbx"
+dest_files=["res://.godot/imported/building-port.fbx-4c3dfcfb8c08667a933aa10e9cc3b9d7.scn"]
 
 [params]
 

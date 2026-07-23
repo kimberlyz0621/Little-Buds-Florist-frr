@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfcqrah370y5r"
-path="res://.godot/imported/variation-b.png-04e6263fc486ae0674fdb38e53cd649c.ctex"
+path="res://.godot/imported/variation-b.png-4bb5f5210ac29a24e6b9b5f77cd8fc1a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/Textures/variation-b.png"
-dest_files=["res://.godot/imported/variation-b.png-04e6263fc486ae0674fdb38e53cd649c.ctex"]
+source_file="res://kenney_hexagon-kit/Models/Textures/variation-b.png"
+dest_files=["res://.godot/imported/variation-b.png-4bb5f5210ac29a24e6b9b5f77cd8fc1a.ctex"]
 
 [params]
 

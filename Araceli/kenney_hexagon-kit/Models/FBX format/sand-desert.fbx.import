@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://r6uim1t0hs74"
-path="res://.godot/imported/sand-desert.fbx-f6d30795a23b24c9f829e307b88a1bab.scn"
+path="res://.godot/imported/sand-desert.fbx-0b361479ba5a872d1e64880226006233.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/sand-desert.fbx"
-dest_files=["res://.godot/imported/sand-desert.fbx-f6d30795a23b24c9f829e307b88a1bab.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/sand-desert.fbx"
+dest_files=["res://.godot/imported/sand-desert.fbx-0b361479ba5a872d1e64880226006233.scn"]
 
 [params]
 

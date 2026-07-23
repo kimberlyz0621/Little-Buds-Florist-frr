@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bm5jdhm1x2iq5"
-path="res://.godot/imported/building-village.png-65dfcf02bd939e611d1ba7c849401215.ctex"
+path="res://.godot/imported/building-village.png-57cf08bb20b2de50cf58c5d5a042a08f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/building-village.png"
-dest_files=["res://.godot/imported/building-village.png-65dfcf02bd939e611d1ba7c849401215.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/building-village.png"
+dest_files=["res://.godot/imported/building-village.png-57cf08bb20b2de50cf58c5d5a042a08f.ctex"]
 
 [params]
 

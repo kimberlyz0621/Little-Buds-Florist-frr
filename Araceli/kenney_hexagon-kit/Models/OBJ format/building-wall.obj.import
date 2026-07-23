@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bdn387ti0o5me"
-path="res://.godot/imported/building-wall.obj-97dc3c90dad3440c50f9db633c3fe49f.mesh"
+path="res://.godot/imported/building-wall.obj-d50e3db0bf3706fa80c6d21edd5f01ec.mesh"
 
 [deps]
 
-files=["res://.godot/imported/building-wall.obj-97dc3c90dad3440c50f9db633c3fe49f.mesh"]
+files=["res://.godot/imported/building-wall.obj-d50e3db0bf3706fa80c6d21edd5f01ec.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/building-wall.obj"
-dest_files=["res://.godot/imported/building-wall.obj-97dc3c90dad3440c50f9db633c3fe49f.mesh", "res://.godot/imported/building-wall.obj-97dc3c90dad3440c50f9db633c3fe49f.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/building-wall.obj"
+dest_files=["res://.godot/imported/building-wall.obj-d50e3db0bf3706fa80c6d21edd5f01ec.mesh", "res://.godot/imported/building-wall.obj-d50e3db0bf3706fa80c6d21edd5f01ec.mesh"]
 
 [params]
 

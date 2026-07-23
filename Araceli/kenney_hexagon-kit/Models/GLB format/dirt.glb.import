@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dmb46taf36sfd"
-path="res://.godot/imported/dirt.glb-bf4436edb1e76c6402cf23752e58c036.scn"
+path="res://.godot/imported/dirt.glb-6b2b0cb4467c19a64afe8a40840c0f3e.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/GLB format/dirt.glb"
-dest_files=["res://.godot/imported/dirt.glb-bf4436edb1e76c6402cf23752e58c036.scn"]
+source_file="res://kenney_hexagon-kit/Models/GLB format/dirt.glb"
+dest_files=["res://.godot/imported/dirt.glb-6b2b0cb4467c19a64afe8a40840c0f3e.scn"]
 
 [params]
 

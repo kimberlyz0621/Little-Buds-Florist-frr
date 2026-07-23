@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://25hcnj0ph7sv"
-path="res://.godot/imported/river-crossing.obj-5dc23205f80a53fca9128dcb8c2c66be.mesh"
+path="res://.godot/imported/river-crossing.obj-cad32c301b9e71923d42936a04a4e4e9.mesh"
 
 [deps]
 
-files=["res://.godot/imported/river-crossing.obj-5dc23205f80a53fca9128dcb8c2c66be.mesh"]
+files=["res://.godot/imported/river-crossing.obj-cad32c301b9e71923d42936a04a4e4e9.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/river-crossing.obj"
-dest_files=["res://.godot/imported/river-crossing.obj-5dc23205f80a53fca9128dcb8c2c66be.mesh", "res://.godot/imported/river-crossing.obj-5dc23205f80a53fca9128dcb8c2c66be.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/river-crossing.obj"
+dest_files=["res://.godot/imported/river-crossing.obj-cad32c301b9e71923d42936a04a4e4e9.mesh", "res://.godot/imported/river-crossing.obj-cad32c301b9e71923d42936a04a4e4e9.mesh"]
 
 [params]
 

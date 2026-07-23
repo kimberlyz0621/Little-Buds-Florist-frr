@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://wmhfeh41134t"
-path="res://.godot/imported/river-crossing.fbx-aa3ab44ea3021a205dc5a4f16c58db12.scn"
+path="res://.godot/imported/river-crossing.fbx-fc0597bbd487ac41e5c2e81365db1917.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/river-crossing.fbx"
-dest_files=["res://.godot/imported/river-crossing.fbx-aa3ab44ea3021a205dc5a4f16c58db12.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/river-crossing.fbx"
+dest_files=["res://.godot/imported/river-crossing.fbx-fc0597bbd487ac41e5c2e81365db1917.scn"]
 
 [params]
 

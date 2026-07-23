@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://rlu5wkdorrox"
-path="res://.godot/imported/building-market.obj-e91b63a1faf8617d56fb913ec577fd08.mesh"
+path="res://.godot/imported/building-market.obj-eb050c062c8d0d8fb5f57a06647322b5.mesh"
 
 [deps]
 
-files=["res://.godot/imported/building-market.obj-e91b63a1faf8617d56fb913ec577fd08.mesh"]
+files=["res://.godot/imported/building-market.obj-eb050c062c8d0d8fb5f57a06647322b5.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/building-market.obj"
-dest_files=["res://.godot/imported/building-market.obj-e91b63a1faf8617d56fb913ec577fd08.mesh", "res://.godot/imported/building-market.obj-e91b63a1faf8617d56fb913ec577fd08.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/building-market.obj"
+dest_files=["res://.godot/imported/building-market.obj-eb050c062c8d0d8fb5f57a06647322b5.mesh", "res://.godot/imported/building-market.obj-eb050c062c8d0d8fb5f57a06647322b5.mesh"]
 
 [params]
 

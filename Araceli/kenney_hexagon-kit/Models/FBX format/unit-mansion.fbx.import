@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dsffwlgngvnwc"
-path="res://.godot/imported/unit-mansion.fbx-1d001625f46130359f3e2ad95ae0007a.scn"
+path="res://.godot/imported/unit-mansion.fbx-63c5f741b66442779102d7991e771ddc.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/unit-mansion.fbx"
-dest_files=["res://.godot/imported/unit-mansion.fbx-1d001625f46130359f3e2ad95ae0007a.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/unit-mansion.fbx"
+dest_files=["res://.godot/imported/unit-mansion.fbx-63c5f741b66442779102d7991e771ddc.scn"]
 
 [params]
 

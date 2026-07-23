@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2g4kei2dtpi5"
-path="res://.godot/imported/building-mine.png-a9ab420214c98ea6d09c6a4bb4c0e04b.ctex"
+path="res://.godot/imported/building-mine.png-22e4438d515239aeece3680d5b619258.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Previews/building-mine.png"
-dest_files=["res://.godot/imported/building-mine.png-a9ab420214c98ea6d09c6a4bb4c0e04b.ctex"]
+source_file="res://kenney_hexagon-kit/Previews/building-mine.png"
+dest_files=["res://.godot/imported/building-mine.png-22e4438d515239aeece3680d5b619258.ctex"]
 
 [params]
 

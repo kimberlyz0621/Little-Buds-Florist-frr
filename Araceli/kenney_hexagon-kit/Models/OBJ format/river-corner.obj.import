@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bmde38dwxtoal"
-path="res://.godot/imported/river-corner.obj-34b85362e848f63128a470d0d20425c8.mesh"
+path="res://.godot/imported/river-corner.obj-6d174f30ccd9602d15a3ea39f74c5161.mesh"
 
 [deps]
 
-files=["res://.godot/imported/river-corner.obj-34b85362e848f63128a470d0d20425c8.mesh"]
+files=["res://.godot/imported/river-corner.obj-6d174f30ccd9602d15a3ea39f74c5161.mesh"]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/OBJ format/river-corner.obj"
-dest_files=["res://.godot/imported/river-corner.obj-34b85362e848f63128a470d0d20425c8.mesh", "res://.godot/imported/river-corner.obj-34b85362e848f63128a470d0d20425c8.mesh"]
+source_file="res://kenney_hexagon-kit/Models/OBJ format/river-corner.obj"
+dest_files=["res://.godot/imported/river-corner.obj-6d174f30ccd9602d15a3ea39f74c5161.mesh", "res://.godot/imported/river-corner.obj-6d174f30ccd9602d15a3ea39f74c5161.mesh"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dkhvr7h8j37bv"
-path="res://.godot/imported/building-market.fbx-555c0fe766e1e6c0c5492f088c682295.scn"
+path="res://.godot/imported/building-market.fbx-8cb6edc94e3250cdb4fee4e4405120e8.scn"
 
 [deps]
 
-source_file="res://Araceli/kenney_hexagon-kit/Models/FBX format/building-market.fbx"
-dest_files=["res://.godot/imported/building-market.fbx-555c0fe766e1e6c0c5492f088c682295.scn"]
+source_file="res://kenney_hexagon-kit/Models/FBX format/building-market.fbx"
+dest_files=["res://.godot/imported/building-market.fbx-8cb6edc94e3250cdb4fee4e4405120e8.scn"]
 
 [params]
 
