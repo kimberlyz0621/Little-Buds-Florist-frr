@@ -1,7 +1,20 @@
 [gd_scene format=3 uid="uid://ch12eiunli85t"]
 
 [ext_resource type="PackedScene" uid="uid://csg6ldrdllhbc" path="res://Araceli/island 1.glb" id="1_itk02"]
+[ext_resource type="PackedScene" uid="uid://p8yl6dvv3o8g" path="res://Araceli/kenney_hexagon-kit/Models/FBX format/building-mill.fbx" id="2_3etub"]
+[ext_resource type="PackedScene" uid="uid://ccm3a32fqcrqq" path="res://Araceli/kenney_hexagon-kit/Models/FBX format/building-sheep.fbx" id="3_whfra"]
+[ext_resource type="PackedScene" uid="uid://b6jk0ctsurs3b" path="res://Araceli/kenney_hexagon-kit/Models/FBX format/grass-forest.fbx" id="4_uue8y"]
 
 [node name="main world" type="Node3D" unique_id=68613765]
 
 [node name="island 1" parent="." unique_id=1955056117 instance=ExtResource("1_itk02")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.10839856)
+
+[node name="building-mill" parent="." unique_id=923994885 instance=ExtResource("2_3etub")]
+transform = Transform3D(-0.9287582, 0, 0.370686, 0, 1, 0, -0.370686, 0, -0.9287582, -0.63227373, -0.20726249, -0.062621)
+
+[node name="building-sheep" parent="." unique_id=1244095459 instance=ExtResource("3_whfra")]
+transform = Transform3D(0.22982085, 0, 0.9732331, 0, 1, 0, -0.9732331, 0, 0.22982085, 0.08583367, -0.20363748, -0.4255476)
+
+[node name="grass-forest" parent="." unique_id=1952837164 instance=ExtResource("4_uue8y")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.37662876, -0.25112826, 0.45312923)
