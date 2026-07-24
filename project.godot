@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Little Buds Florist 2"
+config/name="Little buds Florist"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
 
@@ -19,27 +19,6 @@ config/icon="res://icon.svg"
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 534aa3c4fc1a247a5be0f95bb836d92a1488a00f
-=======
->>>>>>> 534aa3c4fc1a247a5be0f95bb836d92a1488a00f
-[filesystem]
-
-import/blender/enabled=false
-
-[input]
-
-left_mouse_click={
-"deadzone": 0.2,
-"events": [Object(InputEventMouseButton,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"button_mask":0,"position":Vector2(0, 0),"global_position":Vector2(0, 0),"factor":1.0,"button_index":1,"canceled":false,"pressed":false,"double_click":false,"script":null)
-]
-}
-
->>>>>>> 534aa3c4fc1a247a5be0f95bb836d92a1488a00f
 [physics]
 
 3d/physics_engine="Jolt Physics"
