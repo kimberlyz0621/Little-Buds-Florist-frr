@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dlyimfsxw3u5h"
+path="res://.godot/imported/river-end.obj-529efc4ccba1c11b428d8eda93e5199a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/river-end.obj-529efc4ccba1c11b428d8eda93e5199a.mesh"]
+
+source_file="res://Araceli O/kenney_hexagon-kit/Models/OBJ format/river-end.obj"
+dest_files=["res://.godot/imported/river-end.obj-529efc4ccba1c11b428d8eda93e5199a.mesh", "res://.godot/imported/river-end.obj-529efc4ccba1c11b428d8eda93e5199a.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
