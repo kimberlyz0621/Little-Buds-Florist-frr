@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cbk2t5pmo36yw"
-path="res://.godot/imported/stone.glb-c373269bdb1901ceb3ac3fabf14b68d3.scn"
+path="res://.godot/imported/stone.glb-cfa5e8d7aee45ae3de36b14d73832d77.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/GLB format/stone.glb"
-dest_files=["res://.godot/imported/stone.glb-c373269bdb1901ceb3ac3fabf14b68d3.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/GLB format/stone.glb"
+dest_files=["res://.godot/imported/stone.glb-cfa5e8d7aee45ae3de36b14d73832d77.scn"]
 
 [params]
 

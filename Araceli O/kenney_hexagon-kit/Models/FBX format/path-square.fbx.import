@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dsbx8laea56ee"
-path="res://.godot/imported/path-square.fbx-b5b3047392bf2339c6004ebc61685a17.scn"
+path="res://.godot/imported/path-square.fbx-3d75e89caa60a520e6b292b2ea0ce306.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/FBX format/path-square.fbx"
-dest_files=["res://.godot/imported/path-square.fbx-b5b3047392bf2339c6004ebc61685a17.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/FBX format/path-square.fbx"
+dest_files=["res://.godot/imported/path-square.fbx-3d75e89caa60a520e6b292b2ea0ce306.scn"]
 
 [params]
 

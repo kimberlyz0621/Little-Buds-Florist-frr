@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ddxlcalu0d5ou"
-path="res://.godot/imported/stone-rocks.fbx-f30e0cfe10acd8ac06e62fbdd56ff613.scn"
+path="res://.godot/imported/stone-rocks.fbx-68bced7e83b04dceaf778ae7961e270a.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/FBX format/stone-rocks.fbx"
-dest_files=["res://.godot/imported/stone-rocks.fbx-f30e0cfe10acd8ac06e62fbdd56ff613.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/FBX format/stone-rocks.fbx"
+dest_files=["res://.godot/imported/stone-rocks.fbx-68bced7e83b04dceaf778ae7961e270a.scn"]
 
 [params]
 

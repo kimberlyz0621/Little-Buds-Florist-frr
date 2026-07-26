@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c0jbwf80i1jy1"
-path="res://.godot/imported/building-village.glb-19f43050dd90c463aa1a4b7ed2303a37.scn"
+path="res://.godot/imported/building-village.glb-49b48223189aba9c8617040dce989483.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/GLB format/building-village.glb"
-dest_files=["res://.godot/imported/building-village.glb-19f43050dd90c463aa1a4b7ed2303a37.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/GLB format/building-village.glb"
+dest_files=["res://.godot/imported/building-village.glb-49b48223189aba9c8617040dce989483.scn"]
 
 [params]
 

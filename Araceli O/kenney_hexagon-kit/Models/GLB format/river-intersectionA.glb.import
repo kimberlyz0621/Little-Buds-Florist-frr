@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://5w363qhq8a31"
-path="res://.godot/imported/river-intersectionA.glb-2c7d0cb658e3c72b034bbe0b28275e82.scn"
+path="res://.godot/imported/river-intersectionA.glb-6734c48409e981d2ca0f22c12bb8967b.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/GLB format/river-intersectionA.glb"
-dest_files=["res://.godot/imported/river-intersectionA.glb-2c7d0cb658e3c72b034bbe0b28275e82.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/GLB format/river-intersectionA.glb"
+dest_files=["res://.godot/imported/river-intersectionA.glb-6734c48409e981d2ca0f22c12bb8967b.scn"]
 
 [params]
 

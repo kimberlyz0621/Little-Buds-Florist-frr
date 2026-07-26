@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://4nibfrtjl7t"
-path="res://.godot/imported/path-straight.fbx-52d2947618a3e3fc25cced17bf6b977c.scn"
+path="res://.godot/imported/path-straight.fbx-2ea90078ba1eb7c8d0f7349962fd9c05.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/FBX format/path-straight.fbx"
-dest_files=["res://.godot/imported/path-straight.fbx-52d2947618a3e3fc25cced17bf6b977c.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/FBX format/path-straight.fbx"
+dest_files=["res://.godot/imported/path-straight.fbx-2ea90078ba1eb7c8d0f7349962fd9c05.scn"]
 
 [params]
 

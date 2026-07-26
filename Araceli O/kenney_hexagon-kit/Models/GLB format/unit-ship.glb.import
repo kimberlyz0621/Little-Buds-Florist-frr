@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dxhr5o1k6txub"
-path="res://.godot/imported/unit-ship.glb-fd88a75e4445b6473cf5d44ccdc9243c.scn"
+path="res://.godot/imported/unit-ship.glb-41c3b5770e6e28f301b155212963b27d.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/GLB format/unit-ship.glb"
-dest_files=["res://.godot/imported/unit-ship.glb-fd88a75e4445b6473cf5d44ccdc9243c.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/GLB format/unit-ship.glb"
+dest_files=["res://.godot/imported/unit-ship.glb-41c3b5770e6e28f301b155212963b27d.scn"]
 
 [params]
 

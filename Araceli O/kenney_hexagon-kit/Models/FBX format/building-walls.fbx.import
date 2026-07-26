@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ssnmfpx7plsm"
-path="res://.godot/imported/building-walls.fbx-47b8edebf2b8448ce916cdddd3adb74c.scn"
+path="res://.godot/imported/building-walls.fbx-8e7711e054fcfb82427f9dd77cdb2c72.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/FBX format/building-walls.fbx"
-dest_files=["res://.godot/imported/building-walls.fbx-47b8edebf2b8448ce916cdddd3adb74c.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/FBX format/building-walls.fbx"
+dest_files=["res://.godot/imported/building-walls.fbx-8e7711e054fcfb82427f9dd77cdb2c72.scn"]
 
 [params]
 

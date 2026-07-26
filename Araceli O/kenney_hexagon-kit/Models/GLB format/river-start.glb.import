@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cgigaspn5jgkj"
-path="res://.godot/imported/river-start.glb-27dbc1e9d8ce20a36afdc9f10d0fdaa4.scn"
+path="res://.godot/imported/river-start.glb-02041caa17547787fe5374bb3f233596.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/GLB format/river-start.glb"
-dest_files=["res://.godot/imported/river-start.glb-27dbc1e9d8ce20a36afdc9f10d0fdaa4.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/GLB format/river-start.glb"
+dest_files=["res://.godot/imported/river-start.glb-02041caa17547787fe5374bb3f233596.scn"]
 
 [params]
 

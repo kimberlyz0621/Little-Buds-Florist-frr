@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bmklneoi4bqow"
-path="res://.godot/imported/building-house.fbx-7cd326d192ef671bbf7037c55970b8e5.scn"
+path="res://.godot/imported/building-house.fbx-a69e55bf34144f75683fcfb1a1a06f52.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/FBX format/building-house.fbx"
-dest_files=["res://.godot/imported/building-house.fbx-7cd326d192ef671bbf7037c55970b8e5.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/FBX format/building-house.fbx"
+dest_files=["res://.godot/imported/building-house.fbx-a69e55bf34144f75683fcfb1a1a06f52.scn"]
 
 [params]
 

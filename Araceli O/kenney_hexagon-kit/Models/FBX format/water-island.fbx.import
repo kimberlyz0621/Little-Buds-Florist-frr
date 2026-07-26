@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cwurwikk6xuie"
-path="res://.godot/imported/water-island.fbx-3ace939687c7e93787ec6a71110c76ea.scn"
+path="res://.godot/imported/water-island.fbx-19b380417c38c9818e3e52d88c38b238.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/FBX format/water-island.fbx"
-dest_files=["res://.godot/imported/water-island.fbx-3ace939687c7e93787ec6a71110c76ea.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/FBX format/water-island.fbx"
+dest_files=["res://.godot/imported/water-island.fbx-19b380417c38c9818e3e52d88c38b238.scn"]
 
 [params]
 

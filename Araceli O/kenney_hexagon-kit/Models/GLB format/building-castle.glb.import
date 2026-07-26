@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d1s6va4m2hm3c"
-path="res://.godot/imported/building-castle.glb-d4e8aacdc4f53e9721a870976e6e4603.scn"
+path="res://.godot/imported/building-castle.glb-ae3c67baaa2af6b6a042ea513aa9b530.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/GLB format/building-castle.glb"
-dest_files=["res://.godot/imported/building-castle.glb-d4e8aacdc4f53e9721a870976e6e4603.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/GLB format/building-castle.glb"
+dest_files=["res://.godot/imported/building-castle.glb-ae3c67baaa2af6b6a042ea513aa9b530.scn"]
 
 [params]
 

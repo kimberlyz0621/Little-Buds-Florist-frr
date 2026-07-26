@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://buj7mmyco8hlp"
-path="res://.godot/imported/path-crossing.glb-1af10fefa766e077fd1eece05027b3d9.scn"
+path="res://.godot/imported/path-crossing.glb-d86196414b00c047d1ece65abe21d1f3.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/GLB format/path-crossing.glb"
-dest_files=["res://.godot/imported/path-crossing.glb-1af10fefa766e077fd1eece05027b3d9.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/GLB format/path-crossing.glb"
+dest_files=["res://.godot/imported/path-crossing.glb-d86196414b00c047d1ece65abe21d1f3.scn"]
 
 [params]
 

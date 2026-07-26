@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ktgpki0h1tph"
-path="res://.godot/imported/path-intersectionC.glb-dd1edd1b39128aae8306931f4478e27b.scn"
+path="res://.godot/imported/path-intersectionC.glb-0b4cdd17116643c2f3ca7b4445e04f90.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/GLB format/path-intersectionC.glb"
-dest_files=["res://.godot/imported/path-intersectionC.glb-dd1edd1b39128aae8306931f4478e27b.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/GLB format/path-intersectionC.glb"
+dest_files=["res://.godot/imported/path-intersectionC.glb-0b4cdd17116643c2f3ca7b4445e04f90.scn"]
 
 [params]
 

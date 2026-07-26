@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://boix2fgofbg"
-path="res://.godot/imported/unit-tower.glb-6bcf2b2664a419187a1cb4591e0f2624.scn"
+path="res://.godot/imported/unit-tower.glb-f01193037b214bdef0432f2d7fcb4d0d.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/GLB format/unit-tower.glb"
-dest_files=["res://.godot/imported/unit-tower.glb-6bcf2b2664a419187a1cb4591e0f2624.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/GLB format/unit-tower.glb"
+dest_files=["res://.godot/imported/unit-tower.glb-f01193037b214bdef0432f2d7fcb4d0d.scn"]
 
 [params]
 

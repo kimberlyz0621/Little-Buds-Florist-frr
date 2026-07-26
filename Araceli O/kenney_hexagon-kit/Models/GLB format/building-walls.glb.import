@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://prjx8rr36kgh"
-path="res://.godot/imported/building-walls.glb-db3438dff4c06b5c634d88852099c9b9.scn"
+path="res://.godot/imported/building-walls.glb-a50a44e734b310279983e91bee004ef9.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/GLB format/building-walls.glb"
-dest_files=["res://.godot/imported/building-walls.glb-db3438dff4c06b5c634d88852099c9b9.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/GLB format/building-walls.glb"
+dest_files=["res://.godot/imported/building-walls.glb-a50a44e734b310279983e91bee004ef9.scn"]
 
 [params]
 

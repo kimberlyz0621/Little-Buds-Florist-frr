@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bkp86h1cht7dc"
-path="res://.godot/imported/stone-mountain.glb-b6bd12e50de1952d0d2aa97478a7e568.scn"
+path="res://.godot/imported/stone-mountain.glb-6b62bb0347d08a7dbaa36543d073ee18.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/GLB format/stone-mountain.glb"
-dest_files=["res://.godot/imported/stone-mountain.glb-b6bd12e50de1952d0d2aa97478a7e568.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/GLB format/stone-mountain.glb"
+dest_files=["res://.godot/imported/stone-mountain.glb-6b62bb0347d08a7dbaa36543d073ee18.scn"]
 
 [params]
 

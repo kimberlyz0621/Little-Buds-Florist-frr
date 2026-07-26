@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c7t0y0qgtocbb"
-path="res://.godot/imported/river-straight.glb-78273afa6bbb3219356f72f56e81d431.scn"
+path="res://.godot/imported/river-straight.glb-aa79a920ade21993388cd25f5bdb2f29.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/GLB format/river-straight.glb"
-dest_files=["res://.godot/imported/river-straight.glb-78273afa6bbb3219356f72f56e81d431.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/GLB format/river-straight.glb"
+dest_files=["res://.godot/imported/river-straight.glb-aa79a920ade21993388cd25f5bdb2f29.scn"]
 
 [params]
 

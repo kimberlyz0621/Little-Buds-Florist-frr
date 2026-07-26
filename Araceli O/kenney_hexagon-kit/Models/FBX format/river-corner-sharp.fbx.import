@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bxtv2er8vnfpk"
-path="res://.godot/imported/river-corner-sharp.fbx-9783479d673c715c72038be94c6ffb1d.scn"
+path="res://.godot/imported/river-corner-sharp.fbx-341f22dbb148511192c7249573582ce7.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/FBX format/river-corner-sharp.fbx"
-dest_files=["res://.godot/imported/river-corner-sharp.fbx-9783479d673c715c72038be94c6ffb1d.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/FBX format/river-corner-sharp.fbx"
+dest_files=["res://.godot/imported/river-corner-sharp.fbx-341f22dbb148511192c7249573582ce7.scn"]
 
 [params]
 

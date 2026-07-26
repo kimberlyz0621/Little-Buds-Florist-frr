@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c83i8rcps78k3"
-path="res://.godot/imported/unit-ship.fbx-74c89ebcbdb73ecd08e4ba3b79036950.scn"
+path="res://.godot/imported/unit-ship.fbx-10f53ef5d9ec1d6a4390dfe95c01a988.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/FBX format/unit-ship.fbx"
-dest_files=["res://.godot/imported/unit-ship.fbx-74c89ebcbdb73ecd08e4ba3b79036950.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/FBX format/unit-ship.fbx"
+dest_files=["res://.godot/imported/unit-ship.fbx-10f53ef5d9ec1d6a4390dfe95c01a988.scn"]
 
 [params]
 

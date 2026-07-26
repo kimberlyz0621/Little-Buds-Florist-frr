@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b5d274u5j24yd"
-path="res://.godot/imported/stone.fbx-d2dd7467ac339966b26ded12f17c2cab.scn"
+path="res://.godot/imported/stone.fbx-71b8c872ad5568f7ef8fa0f156e55f10.scn"
 
 [deps]
 
-source_file="res://kenney_hexagon-kit/Models/FBX format/stone.fbx"
-dest_files=["res://.godot/imported/stone.fbx-d2dd7467ac339966b26ded12f17c2cab.scn"]
+source_file="res://Araceli O/kenney_hexagon-kit/Models/FBX format/stone.fbx"
+dest_files=["res://.godot/imported/stone.fbx-71b8c872ad5568f7ef8fa0f156e55f10.scn"]
 
 [params]
 
