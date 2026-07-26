@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Little buds Florist"
+config/name="game frr"
 run/main_scene="uid://kdjqswcuto4k"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
@@ -19,29 +19,6 @@ config/icon="res://icon.svg"
 
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
-
-[input]
-
-up={
-"deadzone": 0.5,
-"events": []
-}
-down={
-"deadzone": 0.5,
-"events": []
-}
-left={
-"deadzone": 0.5,
-"events": []
-}
-right={
-"deadzone": 0.5,
-"events": []
-}
-jump={
-"deadzone": 0.5,
-"events": []
-}
 
 [physics]
 
