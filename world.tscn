@@ -28,8 +28,8 @@ shadow_enabled = true
 environment = SubResource("Environment_aqk2v")
 
 [node name="CSGBox3D" type="CSGBox3D" parent="." unique_id=821307415]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.016329, -0.4995, 6.133438)
-size = Vector3(28.46915, 0.001, 32.121246)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.19978714, -0.5829332, -2.6532073)
+size = Vector3(28.967735, 0.001, 32.72972)
 
 [node name="player (us)" type="CharacterBody3D" parent="." unique_id=105336900]
 script = ExtResource("1_f3sb7")
