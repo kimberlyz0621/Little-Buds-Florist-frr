@@ -2,6 +2,9 @@
 
 [ext_resource type="Script" uid="uid://b0qlvug46q28i" path="res://Araceli O/character_body_3d.gd" id="1_f3sb7"]
 
+[sub_resource type="BoxShape3D" id="BoxShape3D_f88a0"]
+size = Vector3(15.16333, 1, 22.14212)
+
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_fj7yv"]
 sky_horizon_color = Color(0.66224277, 0.6717428, 0.6867428, 1)
 ground_horizon_color = Color(0.66224277, 0.6717428, 0.6867428, 1)
@@ -20,8 +23,15 @@ points = PackedVector3Array(-0.12520654, -0.532801, -0.4805069, 0.022783129, 0.4
 
 [node name="World" type="Node3D" unique_id=2116682101]
 
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=951613158]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.98318064, 0)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="MeshInstance3D" unique_id=801892680]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.16233659, -0.634897, -1.2493625)
+shape = SubResource("BoxShape3D_f88a0")
+
 [node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=1929323592]
-transform = Transform3D(-0.8660254, -0.43301278, 0.25, 0, 0.49999997, 0.86602545, -0.50000006, 0.75, -0.43301266, 0, 0, 0)
+transform = Transform3D(-0.8660254, -0.43301278, 0.25, 0, 0.49999997, 0.86602545, -0.50000006, 0.75, -0.43301266, 0, 0.57042277, 0)
 shadow_enabled = true
 
 [node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=498632785]
@@ -35,14 +45,14 @@ size = Vector3(28.967735, 0.001, 32.72972)
 script = ExtResource("1_f3sb7")
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="player (us)" unique_id=636912405]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.41275787, 0)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.98318064, 0)
 mesh = SubResource("CapsuleMesh_qm34h")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="player (us)" unique_id=1860976848]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.41275787, 0)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.98318064, 0)
 shape = SubResource("ConvexPolygonShape3D_036b0")
 
-[node name="head" type="Node3D" parent="player (us)" unique_id=108052680]
+[node name="Head" type="Node3D" parent="player (us)" unique_id=108052680]
 
-[node name="Camera3D" type="Camera3D" parent="player (us)/head" unique_id=201196872]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.86475337, 0)
+[node name="Camera3D" type="Camera3D" parent="player (us)/Head" unique_id=201196872]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.4351761, 0)

@@ -1,0 +1,27 @@
+[gd_scene format=3 uid="uid://dt6h25bltqxt1"]
+
+[ext_resource type="PackedScene" uid="uid://17xpxi0bvlq0" path="res://Araceli O/island 1.blend" id="1_geyxr"]
+[ext_resource type="PackedScene" uid="uid://d11ojmp5na4hu" path="res://Araceli O/kenney_hexagon-kit/Models/GLB format/building-mill.glb" id="2_ebyg4"]
+[ext_resource type="PackedScene" uid="uid://4po3yeqwpjax" path="res://Araceli O/kenney_hexagon-kit/Models/GLB format/building-sheep.glb" id="3_hha6o"]
+[ext_resource type="PackedScene" uid="uid://dx4fxi4qtj1r5" path="res://Araceli O/kenney_hexagon-kit/Models/GLB format/grass-forest.glb" id="4_jx64o"]
+
+[node name="Node3D" type="Node3D" unique_id=72171417]
+
+[node name="island 1" parent="." unique_id=410279442 instance=ExtResource("1_geyxr")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0020282269, 0.017066121, 0.12205911)
+
+[node name="building-mill2" parent="." unique_id=367097074 instance=ExtResource("2_ebyg4")]
+transform = Transform3D(-0.8974123, 0, 0.44119298, 0, 1, 0, -0.44119298, 0, -0.8974123, -0.6692079, -0.18823606, 0.111652255)
+
+[node name="building-sheep2" parent="." unique_id=504072818 instance=ExtResource("3_hha6o")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.2980087, -0.18931878, -0.21755129)
+
+[node name="grass-forest2" parent="." unique_id=391287697 instance=ExtResource("4_jx64o")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.30365312, -0.23547035, 0.7812634)
+
+[node name="Node" type="Node" parent="." unique_id=1666771265]
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=867393367]
+transform = Transform3D(0.2864815, -0.6287603, 0.72290313, 0.006614365, 0.75580865, 0.6547594, -0.9580631, -0.18279485, 0.22068398, 3, 2, 1)
+fov = 51.7
+near = 0.095
